@@ -1,0 +1,5 @@
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\2. Rectangle Area\bin\Debug\_2.Rectangle_Area.exe.config
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\2. Rectangle Area\bin\Debug\_2.Rectangle_Area.exe
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\2. Rectangle Area\bin\Debug\_2.Rectangle_Area.pdb
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\2. Rectangle Area\obj\Debug\_2.Rectangle_Area.exe
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\2. Rectangle Area\obj\Debug\_2.Rectangle_Area.pdb

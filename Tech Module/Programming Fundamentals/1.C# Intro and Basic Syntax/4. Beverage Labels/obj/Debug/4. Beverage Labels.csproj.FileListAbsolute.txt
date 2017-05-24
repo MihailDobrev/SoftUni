@@ -1,0 +1,6 @@
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\4. Beverage Labels\bin\Debug\_4.Beverage_Labels.exe.config
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\4. Beverage Labels\bin\Debug\_4.Beverage_Labels.exe
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\4. Beverage Labels\bin\Debug\_4.Beverage_Labels.pdb
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\4. Beverage Labels\obj\Debug\4. Beverage Labels.csprojResolveAssemblyReference.cache
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\4. Beverage Labels\obj\Debug\_4.Beverage_Labels.exe
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\4. Beverage Labels\obj\Debug\_4.Beverage_Labels.pdb
