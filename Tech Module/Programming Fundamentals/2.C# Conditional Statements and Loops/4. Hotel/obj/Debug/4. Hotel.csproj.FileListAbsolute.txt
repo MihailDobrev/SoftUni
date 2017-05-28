@@ -1,0 +1,5 @@
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\4. Hotel\bin\Debug\_4.Hotel.exe.config
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\4. Hotel\bin\Debug\_4.Hotel.exe
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\4. Hotel\bin\Debug\_4.Hotel.pdb
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\4. Hotel\obj\Debug\_4.Hotel.exe
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\4. Hotel\obj\Debug\_4.Hotel.pdb

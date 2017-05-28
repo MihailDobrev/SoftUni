@@ -1,0 +1,5 @@
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe.config
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\14. Magic Letter\bin\Debug\_14.Magic_Letter.pdb
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\14. Magic Letter\obj\Debug\_14.Magic_Letter.exe
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\14. Magic Letter\obj\Debug\_14.Magic_Letter.pdb

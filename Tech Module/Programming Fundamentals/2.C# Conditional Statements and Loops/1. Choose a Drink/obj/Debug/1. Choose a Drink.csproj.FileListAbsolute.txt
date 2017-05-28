@@ -1,0 +1,5 @@
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\1. Choose a Drink\bin\Debug\_1.Choose_a_Drink.exe.config
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\1. Choose a Drink\bin\Debug\_1.Choose_a_Drink.exe
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\1. Choose a Drink\bin\Debug\_1.Choose_a_Drink.pdb
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\1. Choose a Drink\obj\Debug\_1.Choose_a_Drink.exe
+C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\1. Choose a Drink\obj\Debug\_1.Choose_a_Drink.pdb
