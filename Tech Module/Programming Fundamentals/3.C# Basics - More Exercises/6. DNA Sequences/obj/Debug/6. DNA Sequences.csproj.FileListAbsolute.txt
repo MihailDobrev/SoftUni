@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\6. DNA Sequences\bin\Debug\_6.DNA_Sequences.exe.config
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\6. DNA Sequences\bin\Debug\_6.DNA_Sequences.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\6. DNA Sequences\bin\Debug\_6.DNA_Sequences.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\6. DNA Sequences\obj\Debug\6. DNA Sequences.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\6. DNA Sequences\obj\Debug\_6.DNA_Sequences.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\6. DNA Sequences\obj\Debug\_6.DNA_Sequences.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\6. DNA Sequences\bin\Debug\_6.DNA_Sequences.exe.config
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\6. DNA Sequences\obj\Debug\_6.DNA_Sequences.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\6. DNA Sequences\obj\Debug\_6.DNA_Sequences.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\6. DNA Sequences\bin\Debug\_6.DNA_Sequences.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\6. DNA Sequences\bin\Debug\_6.DNA_Sequences.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\6. DNA Sequences\obj\Debug\6. DNA Sequences.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\8. SMS Typing\bin\Debug\_8.SMS_Typing.exe.config
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\8. SMS Typing\bin\Debug\_8.SMS_Typing.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\8. SMS Typing\bin\Debug\_8.SMS_Typing.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\8. SMS Typing\obj\Debug\8. SMS Typing.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\8. SMS Typing\obj\Debug\_8.SMS_Typing.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\8. SMS Typing\obj\Debug\_8.SMS_Typing.pdb

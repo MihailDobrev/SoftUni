@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\2. Vapor Store\bin\Debug\_2.Vapor_Store.exe.config
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\2. Vapor Store\bin\Debug\_2.Vapor_Store.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\2. Vapor Store\bin\Debug\_2.Vapor_Store.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\2. Vapor Store\obj\Debug\_2.Vapor_Store.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\2. Vapor Store\obj\Debug\_2.Vapor_Store.pdb

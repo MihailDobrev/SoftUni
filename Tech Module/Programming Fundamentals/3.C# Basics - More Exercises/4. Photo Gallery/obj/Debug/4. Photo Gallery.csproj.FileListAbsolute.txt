@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\4. Photo Gallery\bin\Debug\_4.Photo_Gallery.exe.config
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\4. Photo Gallery\bin\Debug\_4.Photo_Gallery.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\4. Photo Gallery\bin\Debug\_4.Photo_Gallery.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\4. Photo Gallery\obj\Debug\_4.Photo_Gallery.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\4. Photo Gallery\obj\Debug\_4.Photo_Gallery.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\4. Photo Gallery\obj\Debug\4. Photo Gallery.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\4. Photo Gallery\bin\Debug\_4.Photo_Gallery.exe.config
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\4. Photo Gallery\obj\Debug\_4.Photo_Gallery.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\4. Photo Gallery\obj\Debug\_4.Photo_Gallery.pdb

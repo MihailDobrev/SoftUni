@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\3. Megapixels\bin\Debug\_3.Megapixels.exe.config
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\3. Megapixels\bin\Debug\_3.Megapixels.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\3. Megapixels\bin\Debug\_3.Megapixels.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\3. Megapixels\obj\Debug\3. Megapixels.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\3. Megapixels\obj\Debug\_3.Megapixels.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\3. Megapixels\obj\Debug\_3.Megapixels.pdb
