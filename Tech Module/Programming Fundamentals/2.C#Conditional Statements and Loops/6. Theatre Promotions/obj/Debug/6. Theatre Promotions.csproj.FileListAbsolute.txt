@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\6. Theatre Promotions\bin\Debug\_6.Theatre_Promotions.exe.config
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\6. Theatre Promotions\bin\Debug\_6.Theatre_Promotions.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\6. Theatre Promotions\bin\Debug\_6.Theatre_Promotions.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\6. Theatre Promotions\obj\Debug\6. Theatre Promotions.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\6. Theatre Promotions\obj\Debug\_6.Theatre_Promotions.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\6. Theatre Promotions\obj\Debug\_6.Theatre_Promotions.pdb

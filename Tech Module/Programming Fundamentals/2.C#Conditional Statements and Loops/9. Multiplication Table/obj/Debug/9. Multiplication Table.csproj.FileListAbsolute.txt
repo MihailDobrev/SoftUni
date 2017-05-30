@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\9. Multiplication Table\bin\Debug\_9.Multiplication_Table.exe.config
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\9. Multiplication Table\bin\Debug\_9.Multiplication_Table.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\9. Multiplication Table\bin\Debug\_9.Multiplication_Table.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\9. Multiplication Table\obj\Debug\_9.Multiplication_Table.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\9. Multiplication Table\obj\Debug\_9.Multiplication_Table.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\8. Sum of Odd Numbers\bin\Debug\_8.Sum_of_Odd_Numbers.exe.config
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\8. Sum of Odd Numbers\bin\Debug\_8.Sum_of_Odd_Numbers.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\8. Sum of Odd Numbers\bin\Debug\_8.Sum_of_Odd_Numbers.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\8. Sum of Odd Numbers\obj\Debug\8. Sum of Odd Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\8. Sum of Odd Numbers\obj\Debug\_8.Sum_of_Odd_Numbers.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\8. Sum of Odd Numbers\obj\Debug\_8.Sum_of_Odd_Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\5. Foreign Languages\bin\Debug\_5.Foreign_Languages.exe.config
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\5. Foreign Languages\bin\Debug\_5.Foreign_Languages.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\5. Foreign Languages\bin\Debug\_5.Foreign_Languages.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\5. Foreign Languages\obj\Debug\5. Foreign Languages.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\5. Foreign Languages\obj\Debug\_5.Foreign_Languages.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\5. Foreign Languages\obj\Debug\_5.Foreign_Languages.pdb

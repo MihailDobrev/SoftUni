@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\4. Month Printer\bin\Debug\_4.Month_Printer.exe.config
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\4. Month Printer\bin\Debug\_4.Month_Printer.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\4. Month Printer\bin\Debug\_4.Month_Printer.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\4. Month Printer\obj\Debug\_4.Month_Printer.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\4. Month Printer\obj\Debug\_4.Month_Printer.pdb

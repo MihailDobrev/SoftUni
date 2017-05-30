@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\7. Divisible by 3\bin\Debug\_7.Divisible_by_3.exe.config
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\7. Divisible by 3\bin\Debug\_7.Divisible_by_3.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\7. Divisible by 3\bin\Debug\_7.Divisible_by_3.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\7. Divisible by 3\obj\Debug\_7.Divisible_by_3.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\7. Divisible by 3\obj\Debug\_7.Divisible_by_3.pdb
