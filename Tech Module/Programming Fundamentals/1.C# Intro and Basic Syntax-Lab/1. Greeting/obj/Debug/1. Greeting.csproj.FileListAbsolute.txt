@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSharp Intro and Basic Syntax - Lab\1. Greeting\bin\Debug\_1.Greeting.exe.config
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSharp Intro and Basic Syntax - Lab\1. Greeting\bin\Debug\_1.Greeting.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSharp Intro and Basic Syntax - Lab\1. Greeting\bin\Debug\_1.Greeting.pdb
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSharp Intro and Basic Syntax - Lab\1. Greeting\obj\Debug\1. Greeting.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSharp Intro and Basic Syntax - Lab\1. Greeting\obj\Debug\_1.Greeting.exe
+C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSharp Intro and Basic Syntax - Lab\1. Greeting\obj\Debug\_1.Greeting.pdb
