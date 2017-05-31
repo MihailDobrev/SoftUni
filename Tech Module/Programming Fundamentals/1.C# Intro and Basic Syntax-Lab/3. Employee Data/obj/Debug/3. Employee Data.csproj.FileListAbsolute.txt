@@ -1,3 +1,0 @@
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSharp Intro and Basic Syntax - Lab\Problem 3. Employee Data\bin\Debug\Problem_3.Employee_Data.exe.config
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSharp Intro and Basic Syntax - Lab\Problem 3. Employee Data\obj\Debug\Problem_3.Employee_Data.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSharp Intro and Basic Syntax - Lab\Problem 3. Employee Data\obj\Debug\Problem_3.Employee_Data.pdb

@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSharp Intro and Basic Syntax - Lab\Problem 2. Add Two Numbers\bin\Debug\Problem_2.Add_Two_Numbers.exe.config
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSharp Intro and Basic Syntax - Lab\Problem 2. Add Two Numbers\bin\Debug\Problem_2.Add_Two_Numbers.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSharp Intro and Basic Syntax - Lab\Problem 2. Add Two Numbers\bin\Debug\Problem_2.Add_Two_Numbers.pdb
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSharp Intro and Basic Syntax - Lab\Problem 2. Add Two Numbers\obj\Debug\Problem_2.Add_Two_Numbers.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSharp Intro and Basic Syntax - Lab\Problem 2. Add Two Numbers\obj\Debug\Problem_2.Add_Two_Numbers.pdb
