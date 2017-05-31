@@ -1,6 +1,0 @@
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\3. Miles to Kilometers\bin\Debug\_3.Miles_to_Kilometers.exe.config
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\3. Miles to Kilometers\bin\Debug\_3.Miles_to_Kilometers.exe
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\3. Miles to Kilometers\bin\Debug\_3.Miles_to_Kilometers.pdb
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\3. Miles to Kilometers\obj\Debug\3. Miles to Kilometers.csprojResolveAssemblyReference.cache
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\3. Miles to Kilometers\obj\Debug\_3.Miles_to_Kilometers.exe
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.CSharp Intro Basic Syntax\CSharp Intro and Basics\3. Miles to Kilometers\obj\Debug\_3.Miles_to_Kilometers.pdb

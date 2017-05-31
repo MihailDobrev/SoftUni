@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\5. BPM Counter\bin\Debug\_5.BPM_Counter.exe.config
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\5. BPM Counter\bin\Debug\_5.BPM_Counter.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\5. BPM Counter\bin\Debug\_5.BPM_Counter.pdb
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\5. BPM Counter\obj\Debug\5. BPM Counter.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\5. BPM Counter\obj\Debug\_5.BPM_Counter.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\5. BPM Counter\obj\Debug\_5.BPM_Counter.pdb

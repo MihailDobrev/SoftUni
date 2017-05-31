@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\11. Odd Number\bin\Debug\_11.Odd_Number.exe.config
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\11. Odd Number\bin\Debug\_11.Odd_Number.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\11. Odd Number\bin\Debug\_11.Odd_Number.pdb
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\11. Odd Number\obj\Debug\_11.Odd_Number.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\11. Odd Number\obj\Debug\_11.Odd_Number.pdb

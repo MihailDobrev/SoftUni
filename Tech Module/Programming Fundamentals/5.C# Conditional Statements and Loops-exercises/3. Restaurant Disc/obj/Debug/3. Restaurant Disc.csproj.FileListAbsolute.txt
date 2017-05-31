@@ -1,5 +1,0 @@
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\3. Restaurant Disc\bin\Debug\_3.Restaurant_Disc.exe.config
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\3. Restaurant Disc\obj\Debug\_3.Restaurant_Disc.exe
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\3. Restaurant Disc\obj\Debug\_3.Restaurant_Disc.pdb
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\3. Restaurant Disc\bin\Debug\_3.Restaurant_Disc.exe
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\3. Restaurant Disc\bin\Debug\_3.Restaurant_Disc.pdb

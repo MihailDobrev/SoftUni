@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\7. Training Hall Equipment\bin\Debug\_7.Training_Hall_Equipment.exe.config
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\7. Training Hall Equipment\bin\Debug\_7.Training_Hall_Equipment.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\7. Training Hall Equipment\bin\Debug\_7.Training_Hall_Equipment.pdb
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\7. Training Hall Equipment\obj\Debug\7. Training Hall Equipment.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\7. Training Hall Equipment\obj\Debug\_7.Training_Hall_Equipment.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\7. Training Hall Equipment\obj\Debug\_7.Training_Hall_Equipment.pdb

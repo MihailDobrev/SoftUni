@@ -1,6 +1,0 @@
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe.config
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\12. Test Numbers\bin\Debug\_12.Test_Numbers.pdb
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\12. Test Numbers\obj\Debug\12. Test Numbers.csprojResolveAssemblyReference.cache
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\12. Test Numbers\obj\Debug\_12.Test_Numbers.exe
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\12. Test Numbers\obj\Debug\_12.Test_Numbers.pdb

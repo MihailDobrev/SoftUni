@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\12. Number checker\bin\Debug\_12.Number_checker.exe.config
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\12. Number checker\bin\Debug\_12.Number_checker.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\12. Number checker\bin\Debug\_12.Number_checker.pdb
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\12. Number checker\obj\Debug\_12.Number_checker.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\12. Number checker\obj\Debug\_12.Number_checker.pdb

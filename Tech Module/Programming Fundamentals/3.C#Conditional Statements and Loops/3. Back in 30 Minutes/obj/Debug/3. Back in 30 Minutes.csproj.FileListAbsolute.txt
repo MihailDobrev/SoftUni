@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\3. Back in 30 Minutes\bin\Debug\_3.Back_in_30_Minutes.exe.config
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\3. Back in 30 Minutes\bin\Debug\_3.Back_in_30_Minutes.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\3. Back in 30 Minutes\bin\Debug\_3.Back_in_30_Minutes.pdb
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\3. Back in 30 Minutes\obj\Debug\_3.Back_in_30_Minutes.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\3. Back in 30 Minutes\obj\Debug\_3.Back_in_30_Minutes.pdb
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\3. Back in 30 Minutes\obj\Debug\3. Back in 30 Minutes.csprojResolveAssemblyReference.cache

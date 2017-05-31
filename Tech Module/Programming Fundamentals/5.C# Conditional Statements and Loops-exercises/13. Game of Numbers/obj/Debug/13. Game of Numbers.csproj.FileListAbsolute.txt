@@ -1,6 +1,0 @@
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\13. Game of Numbers\bin\Debug\_13.Game_of_Numbers.exe.config
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\13. Game of Numbers\obj\Debug\13. Game of Numbers.csprojResolveAssemblyReference.cache
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\13. Game of Numbers\bin\Debug\_13.Game_of_Numbers.exe
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\13. Game of Numbers\bin\Debug\_13.Game_of_Numbers.pdb
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\13. Game of Numbers\obj\Debug\_13.Game_of_Numbers.exe
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\13. Game of Numbers\obj\Debug\_13.Game_of_Numbers.pdb

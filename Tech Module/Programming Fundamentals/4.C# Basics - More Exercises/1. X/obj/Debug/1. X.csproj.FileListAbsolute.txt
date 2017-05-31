@@ -1,9 +1,0 @@
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\1. X\bin\Debug\_1.X.exe.config
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\1. X\bin\Debug\_1.X.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\1. X\bin\Debug\_1.X.pdb
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\1. X\obj\Debug\1. X.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\1. X\obj\Debug\_1.X.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\06 Dictionaries, Lambda and LINQ\CSh Basics More Exercises\1. X\obj\Debug\_1.X.pdb
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\1. X\bin\Debug\_1.X.exe.config
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\1. X\obj\Debug\_1.X.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\CSh Basics More Exercises\1. X\obj\Debug\_1.X.pdb

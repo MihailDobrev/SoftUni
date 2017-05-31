@@ -1,5 +1,0 @@
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\9. Count the Integ\bin\Debug\_9.Count_the_Integ.exe.config
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\9. Count the Integ\obj\Debug\_9.Count_the_Integ.exe
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\9. Count the Integ\obj\Debug\_9.Count_the_Integ.pdb
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\9. Count the Integ\bin\Debug\_9.Count_the_Integ.exe
-C:\Users\Misho Dobrev\Desktop\SoftUni\Programming Fundamentals\0.1CSharp Conditional Statements and Loops - Exercises\CSharp Cond Statem\9. Count the Integ\bin\Debug\_9.Count_the_Integ.pdb

@@ -1,3 +1,0 @@
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\Problem 1. Passed\bin\Debug\Problem_1.Passed.exe.config
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\Problem 1. Passed\obj\Debug\Problem_1.Passed.exe
-C:\Users\User\Desktop\SoftUni\Tech module\Programming Fundamentals\00\Conditional Statem Loops\Problem 1. Passed\obj\Debug\Problem_1.Passed.pdb
