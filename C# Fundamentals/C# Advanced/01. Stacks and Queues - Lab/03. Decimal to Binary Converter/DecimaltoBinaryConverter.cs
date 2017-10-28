@@ -3,9 +3,9 @@
     using System;
     using System.Collections.Generic;
 
-    class DecimaltoBinaryConverter
+    public class Startup
     {
-        static void Main()
+        public static void Main()
         {
             int input = int.Parse(Console.ReadLine());
 

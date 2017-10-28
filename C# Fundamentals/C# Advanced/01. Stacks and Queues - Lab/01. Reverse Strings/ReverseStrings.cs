@@ -3,9 +3,9 @@
     using System;
     using System.Collections.Generic;
 
-    class ReverseStrings
+    public class ReverseStrings
     {
-        static void Main()
+        public static void Main()
         {
             string input = Console.ReadLine();
 

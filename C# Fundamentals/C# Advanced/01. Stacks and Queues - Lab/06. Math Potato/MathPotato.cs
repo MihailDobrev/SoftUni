@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _06.Math_Potato
 {
-    public class MathPotato
+    public class Startup
     {
         public static void Main()
         {

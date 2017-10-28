@@ -1,11 +1,9 @@
-﻿
-
-namespace _04.Matching_Brackets
+﻿namespace _04.Matching_Brackets
 {
     using System;
     using System.Collections.Generic;
 
-    public class MatchingBrackets
+    public class Startup
     {
         public static void Main()
         {
