@@ -1,0 +1,5 @@
+D:\SoftUni\Sets and Dictionaries - Exercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.exe.config
+D:\SoftUni\Sets and Dictionaries - Exercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.exe
+D:\SoftUni\Sets and Dictionaries - Exercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.pdb
+D:\SoftUni\Sets and Dictionaries - Exercise\03. Periodic Table\obj\Debug\_03.Periodic_Table.exe
+D:\SoftUni\Sets and Dictionaries - Exercise\03. Periodic Table\obj\Debug\_03.Periodic_Table.pdb
