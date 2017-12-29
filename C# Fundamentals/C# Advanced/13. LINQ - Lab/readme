@@ -1,0 +1,749 @@
+<h1>Lab: LINQ</h1>
+2
+<p>Problems for exercises and homework for the <a href="https://softuni.bg/courses/csharp-advanced">&ldquo;C# Advanced&rdquo; course @ SoftUni".</a></p>
+3
+<p>Submit your solutions in the SoftUni judge system at <a href="https://judge.softuni.bg/Contests/598/LINQ-Lab.">https://judge.softuni.bg/Contests/598/LINQ-Lab.</a></p>
+4
+<h2>1.&nbsp;&nbsp; Take Two</h2>
+5
+<p>Read a <strong>sequence of integers</strong>, given on a single line separated by a space.</p>
+6
+<p>Finds all <strong>unique</strong> elements, that are in range [<strong>10, 20] inclusive</strong> and print only <strong>the first 2 elements</strong>.</p>
+7
+<p>If there are <strong>fewer than 2 elements</strong>, print as much as there are. If there are <strong>no elements</strong>, print nothing.</p>
+8
+<h3>Examples</h3>
+9
+<table width="232">
+10
+<tbody>
+11
+<tr>
+12
+<td width="124">
+13
+<p><strong>Input</strong></p>
+14
+</td>
+15
+<td width="108">
+16
+<p><strong>Output</strong></p>
+17
+</td>
+18
+</tr>
+19
+<tr>
+20
+<td width="124">
+21
+<p>15 2 15 14 12</p>
+22
+</td>
+23
+<td width="108">
+24
+<p>15 14</p>
+25
+</td>
+26
+</tr>
+27
+<tr>
+28
+<td width="124">
+29
+<p>17 -2 3</p>
+30
+</td>
+31
+<td width="108">
+32
+<p>17</p>
+33
+</td>
+34
+</tr>
+35
+<tr>
+36
+<td width="124">
+37
+<p>-2 3</p>
+38
+</td>
+39
+<td width="108">
+40
+<p>(<em>no output)</em></p>
+41
+</td>
+42
+</tr>
+43
+</tbody>
+44
+</table>
+45
+<h3>Hints</h3>
+46
+<ul>
+47
+<li>Read the input and parse the strings to a list of numbers:</li>
+48
+<li>Filter the numbers with Where() and lambda expression, take the unique ones with Distinct(), take only two from the collection with Take() and iterate over them while printing with ForEach():</li>
+49
+</ul>
+50
+<h2>2.&nbsp;&nbsp; Upper Strings</h2>
+51
+<p>Read a sequence of strings, given on a single line separated with a space.</p>
+52
+<p>Map each to upper case and print them, using LINQ.</p>
+53
+<h3>Examples</h3>
+54
+<table width="329">
+55
+<tbody>
+56
+<tr>
+57
+<td width="165">
+58
+<p><strong>Input</strong></p>
+59
+</td>
+60
+<td width="165">
+61
+<p><strong>Output</strong></p>
+62
+</td>
+63
+</tr>
+64
+<tr>
+65
+<td width="165">
+66
+<p>Pesho Gosho Stefan</p>
+67
+</td>
+68
+<td width="165">
+69
+<p>PESHO GOSHO STEFAN</p>
+70
+</td>
+71
+</tr>
+72
+<tr>
+73
+<td width="165">
+74
+<p>Soft Uni Rocks</p>
+75
+</td>
+76
+<td width="165">
+77
+<p>SOFT UNI ROCKS</p>
+78
+</td>
+79
+</tr>
+80
+<tr>
+81
+<td width="165">
+82
+<p><em>(empty line)</em></p>
+83
+</td>
+84
+<td width="165">
+85
+<p><em>(no output)</em></p>
+86
+</td>
+87
+</tr>
+88
+</tbody>
+89
+</table>
+90
+<h3>Hints</h3>
+91
+<ul>
+92
+<li>Read the input into a list of strings List&lt;string&gt;:</li>
+93
+<li>Use the Select() method to change every element of the list of words to uppercase. Iterate over the words and print the result:</li>
+94
+</ul>
+95
+<h2>3.&nbsp;&nbsp; First Name</h2>
+96
+<p>Read a <strong>sequence of </strong><strong>names</strong>, given on a single line, separated by a space.</p>
+97
+<p>Read a <strong>sequence of letters</strong>, given on the next line, separated by a space.</p>
+98
+<p>Find the <strong>names that start with one of the given letters</strong> and print the first of them (<strong>ordered lexicographically</strong>).</p>
+99
+<p>If there is <strong>no name</strong> that conforms to the requirement, <strong>print "No match"</strong>.</p>
+100
+<h3>Examples</h3>
+101
+<table width="240">
+102
+<tbody>
+103
+<tr>
+104
+<td width="157">
+105
+<p><strong>Input</strong></p>
+106
+</td>
+107
+<td width="84">
+108
+<p><strong>Output</strong></p>
+109
+</td>
+110
+</tr>
+111
+<tr>
+112
+<td width="157">
+113
+<p>Rado Plamen Gosho</p>
+114
+<p>p r</p>
+115
+</td>
+116
+<td width="84">
+117
+<p>Plamen</p>
+118
+</td>
+119
+</tr>
+120
+<tr>
+121
+<td width="157">
+122
+<p>Plamen Gosho Rado</p>
+123
+<p>s c</p>
+124
+</td>
+125
+<td width="84">
+126
+<p>No match</p>
+127
+</td>
+128
+</tr>
+129
+<tr>
+130
+<td width="157">
+131
+<p>plamen gosho rado</p>
+132
+<p>r d e g</p>
+133
+</td>
+134
+<td width="84">
+135
+<p>Gosho</p>
+136
+</td>
+137
+</tr>
+138
+</tbody>
+139
+</table>
+140
+<h3>Hints</h3>
+141
+<ul>
+142
+<li>You can use a hash set to store letter, for efficient searching. Or just simply sort the letters but it will perform poorly</li>
+143
+<li>Make sure you are comparing letter with the same casing (lower or upper)</li>
+144
+<li>Use Where() and First() or FirstOrDefault()</li>
+145
+</ul>
+146
+<h2>4.&nbsp;&nbsp; Average of Doubles</h2>
+147
+<p>Read a <strong>sequence of double numbers</strong>, given on a single line, separated by a space.</p>
+148
+<p>Find the <strong>average of all elements</strong>, using LINQ.</p>
+149
+<p><strong>Round</strong> the output to the second digit after the decimal separator.</p>
+150
+<h3>Examples</h3>
+151
+<table width="533">
+152
+<tbody>
+153
+<tr>
+154
+<td width="401">
+155
+<p><strong>Input</strong></p>
+156
+</td>
+157
+<td width="132">
+158
+<p><strong>Output</strong></p>
+159
+</td>
+160
+</tr>
+161
+<tr>
+162
+<td width="401">
+163
+<p>3 4 5 6</p>
+164
+</td>
+165
+<td width="132">
+166
+<p>4.50</p>
+167
+</td>
+168
+</tr>
+169
+<tr>
+170
+<td width="401">
+171
+<p>3.14 5.2 6.18</p>
+172
+</td>
+173
+<td width="132">
+174
+<p>4.84</p>
+175
+</td>
+176
+</tr>
+177
+</tbody>
+178
+</table>
+179
+<h2>5.&nbsp;&nbsp; Min Even Number</h2>
+180
+<p>Read a sequence of numbers, given on a single line, separated by a space.</p>
+181
+<p>Find the smallest number of all even numbers, using LINQ.</p>
+182
+<p>If there are <strong>no numbers</strong> in the sequence, <strong>print "No match"</strong>.</p>
+183
+<p>Numbers in the output should be formatted with <strong>2 decimal</strong> <strong>places</strong> after floating point.</p>
+184
+<h3>Examples</h3>
+185
+<table width="224">
+186
+<tbody>
+187
+<tr>
+188
+<td width="140">
+189
+<p><strong>Input</strong></p>
+190
+</td>
+191
+<td width="84">
+192
+<p><strong>Output</strong></p>
+193
+</td>
+194
+</tr>
+195
+<tr>
+196
+<td width="140">
+197
+<p>1 2 3 4 5 6</p>
+198
+</td>
+199
+<td width="84">
+200
+<p>2.00</p>
+201
+</td>
+202
+</tr>
+203
+<tr>
+204
+<td width="140">
+205
+<p>3.14 -2.00 1.33</p>
+206
+</td>
+207
+<td width="84">
+208
+<p>-2.00</p>
+209
+</td>
+210
+</tr>
+211
+<tr>
+212
+<td width="140">
+213
+<p><em>1 3</em></p>
+214
+</td>
+215
+<td width="84">
+216
+<p>No match</p>
+217
+</td>
+218
+</tr>
+219
+</tbody>
+220
+</table>
+221
+<h3>Hints</h3>
+222
+<ul>
+223
+<li>Use select function to map the objects to double</li>
+224
+<li>Make sure to filter empty strings</li>
+225
+<li>Filter the even numbers</li>
+226
+<li>Get the smallest number using Min()</li>
+227
+</ul>
+228
+<h2>6.&nbsp;&nbsp; Find and Sum Integers</h2>
+229
+<p>Read a sequence of elements, given on a single line, separated by a space.</p>
+230
+<p>Filter all elements that are integers and calculate their sum, using LINQ.</p>
+231
+<p>If there are <strong>no numbers</strong> in the sequence, <strong>print "No match"</strong>.</p>
+232
+<h3>Examples</h3>
+233
+<table width="249">
+234
+<tbody>
+235
+<tr>
+236
+<td width="165">
+237
+<p><strong>Input</strong></p>
+238
+</td>
+239
+<td width="84">
+240
+<p><strong>Output</strong></p>
+241
+</td>
+242
+</tr>
+243
+<tr>
+244
+<td width="165">
+245
+<p>Sum 3 and 4</p>
+246
+</td>
+247
+<td width="84">
+248
+<p>7</p>
+249
+</td>
+250
+</tr>
+251
+<tr>
+252
+<td width="165">
+253
+<p>Sum -3 and -4</p>
+254
+</td>
+255
+<td width="84">
+256
+<p>-7</p>
+257
+</td>
+258
+</tr>
+259
+<tr>
+260
+<td width="165">
+261
+<p>Sum three and four</p>
+262
+</td>
+263
+<td width="84">
+264
+<p>No match</p>
+265
+</td>
+266
+</tr>
+267
+<tr>
+268
+<td width="165">
+269
+<p>cat dog 1 catch</p>
+270
+</td>
+271
+<td width="84">
+272
+<p>1</p>
+273
+</td>
+274
+</tr>
+275
+<tr>
+276
+<td width="165">
+277
+<p>cat 1 dog -1 min</p>
+278
+</td>
+279
+<td width="84">
+280
+<p>0</p>
+281
+</td>
+282
+</tr>
+283
+</tbody>
+284
+</table>
+285
+<h2>7.&nbsp;&nbsp; Bounded Numbers</h2>
+286
+<p>On the first line, read two numbers, a <strong>lower </strong>and<strong> an upper bound</strong>, separated by a space. The bigger number is the upper bound and the smaller number is the lower bound.</p>
+287
+<p>On the second line, read a sequence of numbers, separated by a space.</p>
+288
+<p>Print all numbers, such that [lower bound] &le; n &le; [upper bound].</p>
+289
+<h3>Examples</h3>
+290
+<table width="265">
+291
+<tbody>
+292
+<tr>
+293
+<td width="157">
+294
+<p><strong>Input</strong></p>
+295
+</td>
+296
+<td width="108">
+297
+<p><strong>Output</strong></p>
+298
+</td>
+299
+</tr>
+300
+<tr>
+301
+<td width="157">
+302
+<p>5 7</p>
+303
+<p>1 2 3 4 5 6 7 8 9</p>
+304
+</td>
+305
+<td width="108">
+306
+<p>5 6 7</p>
+307
+</td>
+308
+</tr>
+309
+<tr>
+310
+<td width="157">
+311
+<p>7 5</p>
+312
+<p>9 5 7 2 6 8</p>
+313
+</td>
+314
+<td width="108">
+315
+<p>5 7 6</p>
+316
+</td>
+317
+</tr>
+318
+<tr>
+319
+<td width="157">
+320
+<p>3 4</p>
+321
+<p>5 6 7 8</p>
+322
+</td>
+323
+<td width="108">
+324
+<p><em>(no output)</em></p>
+325
+</td>
+326
+</tr>
+327
+</tbody>
+328
+</table>
+329
+<h2>8.&nbsp;&nbsp; Map Districts</h2>
+330
+<p>On the first line, you are given the population of districts in different cities, separated by a single space in the format "city:district population".</p>
+331
+<p>On the second line, you are given the minimum population for filtering of the towns. The <strong>population of a town</strong> is the <strong>sum of populations of all of its districts</strong>.</p>
+332
+<p><strong>Print</strong> all <strong>cities</strong> with population greater than a given number on the second line. <strong>Sort</strong> <strong>cities</strong> <strong>and districts</strong> by descending population and <strong>print</strong><strong> top 5 districts for a given city</strong>.</p>
+333
+<p>For a better understanding, see the examples below.</p>
+334
+<h3>Examples</h3>
+335
+<table width="466">
+336
+<tbody>
+337
+<tr>
+338
+<td width="342">
+339
+<p><strong>Input</strong></p>
+340
+</td>
+341
+<td width="124">
+342
+<p><strong>Output</strong></p>
+343
+</td>
+344
+</tr>
+345
+<tr>
+346
+<td width="342">
+347
+<p>Pld:9 Pld:13 Has:7 Sof:20 Sof:10 Sof:15</p>
+348
+<p>10</p>
+349
+</td>
+350
+<td width="124">
+351
+<p>Sof: 20 15 10</p>
+352
+<p>Pld: 13 9</p>
+353
+</td>
+354
+</tr>
+355
+<tr>
+356
+<td width="342">
+357
+<p>Sof:10 Sof:12 Sof:15</p>
+358
+<p>10</p>
+359
+</td>
+360
+<td width="124">
+361
+<p>Sof: 15 12 10</p>
+362
+</td>
+363
+</tr>
+364
+<tr>
+365
+<td width="342">
+366
+<p>Sof:5</p>
+367
+<p>15</p>
+368
+</td>
+369
+<td width="124">
+370
+<p><em>(no output)</em></p>
+371
+</td>
+372
+</tr>
+373
+</tbody>
+374
+</table>
+375
+<h3>&nbsp;</h3>
