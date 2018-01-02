@@ -1,0 +1,7 @@
+D:\SoftUni\BashSoft\BashSoftProgram\obj\Debug\BashSoftProgram.csprojResolveAssemblyReference.cache
+D:\SoftUni\BashSoft\BashSoftProgram\obj\Debug\BashSoftProgram.csproj.CoreCompileInputs.cache
+D:\SoftUni\BashSoft\BashSoftProgram\bin\Debug\BashSoftProgram.exe.config
+D:\SoftUni\BashSoft\BashSoftProgram\bin\Debug\BashSoftProgram.exe
+D:\SoftUni\BashSoft\BashSoftProgram\bin\Debug\BashSoftProgram.pdb
+D:\SoftUni\BashSoft\BashSoftProgram\obj\Debug\BashSoftProgram.exe
+D:\SoftUni\BashSoft\BashSoftProgram\obj\Debug\BashSoftProgram.pdb
