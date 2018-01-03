@@ -10,7 +10,10 @@
     {
         public static void Main()
         {
-            IOManager.TraverseDirectory("D:\\Export");
+            StudentsRepository.InitializeData();
+            StudentsRepository.GetAllStudentsFromCourse("Unity");
+            StudentsRepository.GetStudentScoresFromCourse("Unity", "Ivan");
+
         }
     }
 }

@@ -43,9 +43,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BashSoftProgram.cs" />
+    <Compile Include="ExceptionMessages.cs" />
     <Compile Include="IOManager.cs" />
     <Compile Include="OutputWriter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StudentsRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

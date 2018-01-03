@@ -31,5 +31,10 @@
             Console.WriteLine(message);
             Console.ForegroundColor = currentColor;
         }
+
+        public static void PrintStudent(KeyValuePair<string, List<int>> student)
+        {
+            WriteMessageOnNewLine(string.Format($"{student.Key} - {string.Join(", ", student.Value)}"));
+        }
     }
 }
