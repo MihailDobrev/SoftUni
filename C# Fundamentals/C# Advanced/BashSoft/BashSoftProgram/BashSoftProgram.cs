@@ -10,12 +10,7 @@
     {
         public static void Main()
         {
-            //StudentsRepository.InitializeData();
-            //StudentsRepository.GetAllStudentsFromCourse("Unity");
-            //StudentsRepository.GetStudentScoresFromCourse("Unity", "Ivan");
 
-            IOManager.CreateDirectoryInCurentFolder("pesho");
-            IOManager.TraverseDirectory(0);
         }
     }
 }
