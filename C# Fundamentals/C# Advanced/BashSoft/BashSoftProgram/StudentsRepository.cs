@@ -85,9 +85,7 @@
                 OutputWriter.DisplayException(ExceptionMessages.InexistingStudentInDataBase);
             }
             return false;
-        }
-
-        
+        }      
 
         public static void GetStudentScoresFromCourse(string courseName, string userName)
         {

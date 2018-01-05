@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1158AC14-568C-4E45-8490-855619348DC7}</ProjectGuid>
+    <ProjectGuid>{E6FA3C17-000F-4985-887C-1499A0926022}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BashSoftProgram</RootNamespace>
-    <AssemblyName>BashSoftProgram</AssemblyName>
+    <RootNamespace>SimpleJudge</RootNamespace>
+    <AssemblyName>SimpleJudge</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,16 +42,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BashSoftProgram.cs" />
-    <Compile Include="ExceptionMessages.cs" />
-    <Compile Include="IOManager.cs" />
-    <Compile Include="OutputWriter.cs" />
+    <Compile Include="JudgeStartup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SessionData.cs" />
-    <Compile Include="StudentsRepository.cs" />
+    <Compile Include="Tester.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BashSoftProgram\BashSoftProgram.csproj">
+      <Project>{1158AC14-568C-4E45-8490-855619348DC7}</Project>
+      <Name>BashSoftProgram</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

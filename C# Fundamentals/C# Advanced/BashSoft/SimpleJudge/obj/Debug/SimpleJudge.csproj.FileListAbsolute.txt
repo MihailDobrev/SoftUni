@@ -1,0 +1,10 @@
+D:\SoftUni\BashSoft\SimpleJudge\obj\Debug\SimpleJudge.csprojResolveAssemblyReference.cache
+D:\SoftUni\BashSoft\SimpleJudge\obj\Debug\SimpleJudge.csproj.CoreCompileInputs.cache
+D:\SoftUni\BashSoft\SimpleJudge\bin\Debug\SimpleJudge.exe.config
+D:\SoftUni\BashSoft\SimpleJudge\bin\Debug\SimpleJudge.exe
+D:\SoftUni\BashSoft\SimpleJudge\bin\Debug\SimpleJudge.pdb
+D:\SoftUni\BashSoft\SimpleJudge\bin\Debug\BashSoftProgram.exe
+D:\SoftUni\BashSoft\SimpleJudge\bin\Debug\BashSoftProgram.pdb
+D:\SoftUni\BashSoft\SimpleJudge\bin\Debug\BashSoftProgram.exe.config
+D:\SoftUni\BashSoft\SimpleJudge\obj\Debug\SimpleJudge.exe
+D:\SoftUni\BashSoft\SimpleJudge\obj\Debug\SimpleJudge.pdb

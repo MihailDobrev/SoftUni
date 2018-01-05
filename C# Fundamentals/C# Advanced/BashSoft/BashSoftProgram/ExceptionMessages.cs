@@ -17,5 +17,9 @@
         public const string InexistingCourseInDataBase = "The course you are trying to get does not exist in the data base!";
 
         public const string InexistingStudentInDataBase = "The username for the student you are trying to get does not exist in the data base!";
+
+        public const string InvalidPath = "The folder/file you are trying to access at the current address, does not exist";
+
+
     }
 }
