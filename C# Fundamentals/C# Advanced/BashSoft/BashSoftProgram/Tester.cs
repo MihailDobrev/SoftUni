@@ -1,13 +1,12 @@
-﻿namespace SimpleJudge
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-    using BashSoftProgram;
-    using System.IO;
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
+namespace BashSoftProgram
+{
     public static class Tester
     {
         public static void CompareContent(string userOutputPath, string expectedOutputPath)
@@ -31,7 +30,7 @@
             {
                 OutputWriter.DisplayException(ExceptionMessages.InvalidPath);
             }
-            
+
 
         }
 
@@ -54,7 +53,7 @@
                 }
                 return;
             }
-            OutputWriter.WriteMessageOnNewLine("Files are identical. There are no mismatches");  
+            OutputWriter.WriteMessageOnNewLine("Files are identical. There are no mismatches");
         }
 
         public static string[] GetLinesWithPossibleMismatches(string[] actualOutputLines, string[] expectedOutputLines, out bool hasMismatch)
@@ -62,11 +61,11 @@
             hasMismatch = false;
             string output = string.Empty;
 
-            
+
             OutputWriter.WriteMessageOnNewLine("Comparing files...");
 
             int minOutputLines = actualOutputLines.Length;
-            if (actualOutputLines.Length!=expectedOutputLines.Length)
+            if (actualOutputLines.Length != expectedOutputLines.Length)
             {
                 hasMismatch = true;
                 minOutputLines = Math.Min(actualOutputLines.Length, expectedOutputLines.Length);

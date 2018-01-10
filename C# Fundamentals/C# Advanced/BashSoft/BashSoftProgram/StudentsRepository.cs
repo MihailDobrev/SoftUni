@@ -2,6 +2,7 @@
 {
     using System;
     using System.Collections.Generic;
+    using System.IO;
     using System.Linq;
     using System.Text;
     using System.Threading.Tasks;
@@ -11,13 +12,13 @@
         public static bool isDataInitialized = false;
         private static Dictionary<string, Dictionary<string, List<int>>> studentsByCourse;
 
-        public static void InitializeData()
+        public static void InitializeData(string fileName)
         {
             if (!isDataInitialized)
             {
                 OutputWriter.WriteMessageOnNewLine("Reading data...");
                 studentsByCourse = new Dictionary<string, Dictionary<string, List<int>>>();
-                ReadData();
+                ReadData(fileName);
             }
             else
             {
@@ -25,29 +26,40 @@
             }
         }
 
-        private static void ReadData()
+        private static void ReadData(string fileName)
         {
-            string input = Console.ReadLine();
+             string path = SessionData.currentPath + "\\" + fileName;
 
-            while (!string.IsNullOrEmpty(input))
+            if (File.Exists(path))
             {
-                string[] tokens = input.Split(' ');
-                string course = tokens[0];
-                string student = tokens[1];
-                int mark = int.Parse(tokens[2]);
+                string[] allInputLines = File.ReadAllLines(path);
 
-                if (!studentsByCourse.ContainsKey(course))
+                for (int line = 0; line < allInputLines.Length; line++)
                 {
-                    studentsByCourse.Add(course, new Dictionary<string, List<int>>());
-                }
-                if (!studentsByCourse[course].ContainsKey(student))
-                {
-                    studentsByCourse[course].Add(student, new List<int>());
-                }
-                studentsByCourse[course][student].Add(mark);
+                    if (!string.IsNullOrEmpty(allInputLines[line]))
+                    {
+                        string[] data = allInputLines[line].Split(' ');
+                        string course = data[0];
+                        string student = data[1];
+                        int mark = int.Parse(data[2]);
 
-                input = Console.ReadLine();
+                        if (!studentsByCourse.ContainsKey(course))
+                        {
+                            studentsByCourse.Add(course, new Dictionary<string, List<int>>());
+                        }
+                        if (!studentsByCourse[course].ContainsKey(student))
+                        {
+                            studentsByCourse[course].Add(student, new List<int>());
+                        }
+                        studentsByCourse[course][student].Add(mark);
+                    }
+                }
             }
+            else
+            {
+                OutputWriter.DisplayException(ExceptionMessages.InvalidPath);
+            }
+
             isDataInitialized = true;
             OutputWriter.WriteMessageOnNewLine("Data read!");
         }
@@ -62,7 +74,7 @@
             {
                 OutputWriter.DisplayException(ExceptionMessages.DataNotInitializedExceptionMessage);
             }
-            
+
             if (studentsByCourse.ContainsKey(courseName))
             {
                 return true;
@@ -74,7 +86,7 @@
             return false;
         }
 
-        private static bool IsQuerryForStudentsPossible(string courseName,string studentUserName)
+        private static bool IsQuerryForStudentsPossible(string courseName, string studentUserName)
         {
             if (studentsByCourse.ContainsKey(courseName) && studentsByCourse[courseName].ContainsKey(studentUserName))
             {
@@ -85,11 +97,11 @@
                 OutputWriter.DisplayException(ExceptionMessages.InexistingStudentInDataBase);
             }
             return false;
-        }      
+        }
 
         public static void GetStudentScoresFromCourse(string courseName, string userName)
         {
-            if (IsQuerryForStudentsPossible(courseName,userName))
+            if (IsQuerryForStudentsPossible(courseName, userName))
             {
                 OutputWriter.PrintStudent(new KeyValuePair<string, List<int>>(userName, studentsByCourse[courseName][userName]));
             }
@@ -107,5 +119,5 @@
                 }
             }
         }
-    }   
+    }
 }
