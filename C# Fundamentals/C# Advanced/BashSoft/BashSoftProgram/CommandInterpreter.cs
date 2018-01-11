@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace BashSoftProgram
 {
+    using System.Diagnostics;
+
     public static class CommandInterpreter
     {
         public static void InterpredCommand(string input)
@@ -39,6 +35,9 @@ namespace BashSoftProgram
                 case "help":
                     TryGetHelp(input, data);
                     break;
+                case "show":
+                    TryShowWantedData(input, data);
+                    break;
                 case "filter":
                     //TODO:
                     break;
@@ -58,6 +57,30 @@ namespace BashSoftProgram
                     break;
                     
             }
+        }
+
+        private static void TryShowWantedData(string input, string[] data)
+        {
+            if (data.Length == 2)
+            {
+                string courseName = data[1];
+                StudentsRepository.GetAllStudentsFromCourse(courseName);
+            }
+            else if (data.Length==3)
+            {
+                string courseName = data[1];
+                string userName = data[2];
+                StudentsRepository.GetStudentScoresFromCourse(courseName, userName);
+            }
+            else
+            {
+                DisplayInvalidCommandMessage(input);
+            }
+        }
+
+        private static void DisplayInvalidCommandMessage(string input)
+        {
+            OutputWriter.DisplayException(ExceptionMessages.InvalidCommand);
         }
 
         private static void TryGetHelp(string input, string[] data)

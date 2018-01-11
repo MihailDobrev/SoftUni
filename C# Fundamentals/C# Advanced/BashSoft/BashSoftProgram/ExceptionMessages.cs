@@ -1,10 +1,5 @@
 ﻿namespace BashSoftProgram
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     public static class ExceptionMessages
     {
@@ -29,5 +24,7 @@
         public const string UnableToGoHigherInPartitionHierarchy = "It is not possible to go higher in the partition hierarchy";
 
         public const string UnableToParseNumber = "The sequence you've written is not a valid number";
+
+        public const string InvalidCommand = "You have written an invalid command";
     }
 }
