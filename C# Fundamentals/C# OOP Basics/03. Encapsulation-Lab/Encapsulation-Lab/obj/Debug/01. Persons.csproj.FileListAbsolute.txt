@@ -1,0 +1,7 @@
+D:\SoftUni\Encapsulation\01. Persons\bin\Debug\_01.Persons.exe.config
+D:\SoftUni\Encapsulation\01. Persons\bin\Debug\_01.Persons.exe
+D:\SoftUni\Encapsulation\01. Persons\bin\Debug\_01.Persons.pdb
+D:\SoftUni\Encapsulation\01. Persons\obj\Debug\01. Persons.csprojResolveAssemblyReference.cache
+D:\SoftUni\Encapsulation\01. Persons\obj\Debug\01. Persons.csproj.CoreCompileInputs.cache
+D:\SoftUni\Encapsulation\01. Persons\obj\Debug\_01.Persons.exe
+D:\SoftUni\Encapsulation\01. Persons\obj\Debug\_01.Persons.pdb
