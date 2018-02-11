@@ -64,8 +64,7 @@
             }
 
             isDataInitialized = true;
-            OutputWriter.WriteMessageOnNewLine("Data read!");
-            OutputWriter.WriteEmptyLine();
+            OutputWriter.WriteMessageOnNewLine("Data read!");         
         }
 
         private static bool IsQuerryForCoursePossible(string courseName)

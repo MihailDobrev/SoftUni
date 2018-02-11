@@ -53,7 +53,7 @@
     <Compile Include="Static data\SessionData.cs" />
     <Compile Include="Repository\RepositorySorters.cs" />
     <Compile Include="Repository\StudentsRepository.cs" />
-    <Compile Include="Tester.cs" />
+    <Compile Include="Files\Tester.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
