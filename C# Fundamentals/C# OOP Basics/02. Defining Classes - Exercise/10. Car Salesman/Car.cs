@@ -12,25 +12,27 @@
 
         public Car(string model, Engine engine)
         {
-            this.model = model;
-            this.engine = engine;           
+            Model = model;
+            Engine = engine;           
         }
 
-        public Car(string model, Engine engine, int weight) : this(model, engine)
+        public Car(string model, Engine engine, int weight) 
+            : this(model, engine)
         {
-            this.weight = weight;
+            Weight = weight;
         }
 
-        public Car(string model, Engine engine, string color) : this(model, engine)
+        public Car(string model, Engine engine, string color) 
+            : this(model, engine)
         {
-            this.color = color;
+            Color = color;
         }
 
         public Car(string model, Engine engine, int weight, string color) 
             : this(model, engine)
         {
-            this.weight = weight;
-            this.color = color;
+            Weight = weight;
+            Color = color;
         }
 
         public string Color

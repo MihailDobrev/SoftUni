@@ -6,31 +6,30 @@
         private int power;
         private string efficiency;
         private int powerDisplacement;
-        
-
+       
         public Engine(string model, int power)
         {
-            this.model = model;
-            this.power = power;
+            Model = model;
+            Power = power;
         }
 
         public Engine(string model, int power, int powerDisplacement) 
             : this(model, power)
         {
-            this.powerDisplacement = powerDisplacement;
+            PowerDisplacement = powerDisplacement;
         }
 
         public Engine(string model, int power, string efficiency) 
             : this(model, power)
         {
-            this.efficiency = efficiency;
+            Efficiency = efficiency;
         }
 
         public Engine(string model, int power, int powerDisplacement, string efficiency) 
             : this(model, power)
         {
-            this.powerDisplacement = powerDisplacement;
-            this.efficiency = efficiency;
+            PowerDisplacement = powerDisplacement;
+            Efficiency = efficiency;
         }
 
         public string Efficiency
@@ -44,7 +43,6 @@
             get { return powerDisplacement; }
             set { powerDisplacement = value; }
         }
-
 
         public int Power
         {

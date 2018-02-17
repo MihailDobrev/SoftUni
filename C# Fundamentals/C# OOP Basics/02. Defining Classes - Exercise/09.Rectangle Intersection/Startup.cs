@@ -1,11 +1,9 @@
-﻿
-namespace _09.Rectangle_Intersection
+﻿namespace _09.Rectangle_Intersection
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
-
-   public class Startup
+    public class Startup
     {
         static void Main()
         {

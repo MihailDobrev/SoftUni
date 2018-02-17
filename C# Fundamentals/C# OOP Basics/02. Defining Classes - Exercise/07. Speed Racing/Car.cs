@@ -3,19 +3,16 @@
     public class Car
     {
         private string model;
-
         private double fuelConsumption;
-
         private double fuelAmount;
-
         private double distanceTravelled;
 
         public Car(string model, double fuelConsumption, double fuelAmount)
         {
-            this.model = model;
-            this.fuelConsumption = fuelConsumption;
-            this.fuelAmount = fuelAmount;
-            this.distanceTravelled = 0;
+            Model = model;
+            FuelConsumption = fuelConsumption;
+            FuelAmount = fuelAmount;
+            DistanceTravelled = 0;
         }
 
         public double DistanceTravelled
@@ -44,7 +41,6 @@
 
         public double CalculateFuelLeft(double amountOfKM)
         {
-
             return this.fuelAmount - (this.fuelConsumption * amountOfKM);
         }
 

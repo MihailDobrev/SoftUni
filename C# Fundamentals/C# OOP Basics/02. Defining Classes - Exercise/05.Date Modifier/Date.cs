@@ -26,9 +26,9 @@
 
         public Date(int year, int month, int day)
         {
-            this.year = year;
-            this.month = month;
-            this.day = day;
+            Year = year;
+            Month = month;
+            Day = day;
         }
     }
 }

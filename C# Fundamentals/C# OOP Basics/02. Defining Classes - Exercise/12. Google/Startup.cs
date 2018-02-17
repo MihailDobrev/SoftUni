@@ -24,6 +24,7 @@
                         string companyName = inputArgs[2];
                         string department = inputArgs[3];
                         decimal salary = decimal.Parse(inputArgs[4]);
+
                         people[name].Company.Name = companyName;
                         people[name].Company.Department = department;
                         people[name].Company.Salary = salary;

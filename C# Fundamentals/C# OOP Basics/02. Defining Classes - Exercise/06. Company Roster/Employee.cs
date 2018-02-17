@@ -9,12 +9,12 @@
 
     public Employee(string name, double salary, string position, string department, string email, int age)
     {
-        this.name = name;
-        this.salary = salary;
-        this.position = position;
-        this.department = department;
-        this.email = email;
-        this.age = age;
+        Name = name;
+        Salary = salary;
+        Position = position;
+        Department = department;
+        Email = email;
+        Age = age;
     }
 
     public string Name

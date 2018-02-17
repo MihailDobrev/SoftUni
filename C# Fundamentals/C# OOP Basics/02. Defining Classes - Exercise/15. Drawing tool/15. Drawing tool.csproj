@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{419302D0-A481-4793-829D-89E244F679F3}</ProjectGuid>
+    <ProjectGuid>{D5A17456-0F37-4959-99FA-E07A197B6FED}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_12.Family_Tree</RootNamespace>
-    <AssemblyName>_12.Family_Tree</AssemblyName>
+    <RootNamespace>_15.Drawing_tool</RootNamespace>
+    <AssemblyName>_15.Drawing_tool</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,11 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Child.cs" />
-    <Compile Include="Parent.cs" />
-    <Compile Include="Person.cs" />
+    <Compile Include="DrawingTool.cs" />
+    <Compile Include="Figure.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rectangle.cs" />
+    <Compile Include="Square.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

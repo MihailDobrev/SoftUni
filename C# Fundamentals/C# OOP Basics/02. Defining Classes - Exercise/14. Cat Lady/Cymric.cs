@@ -6,7 +6,7 @@
         public Cymric(string type, string name, double furLength)
              : base(type, name)
         {
-            this.FurLength = furLength;
+            FurLength = furLength;
         }
 
         public double FurLength { get; set; }

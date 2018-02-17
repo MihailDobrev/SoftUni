@@ -7,8 +7,8 @@
 
         public Engine(int speed, int power)
         {
-            this.speed = speed;
-            this.power = power;
+            Speed = speed;
+            Power = power;
         }
 
         public int Power

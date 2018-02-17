@@ -1,14 +1,10 @@
-﻿namespace _01.Define_a_Class_Person
+﻿public class Startup
 {
-    using System;
-    using System.Reflection;
-    public class Startup
+    public static void Main()
     {
-        static void Main()
-        {
-            Type personType = typeof(Person);
-            FieldInfo[] fields = personType.GetFields(BindingFlags.Public | BindingFlags.Instance);
-            Console.WriteLine(fields.Length);
-        }
+        Person pesho = new Person("Pesho", 20);
+        Person gosho = new Person("Gosho", 18);
+        Person stamat = new Person("Stamat", 43);
     }
 }
+

@@ -7,8 +7,8 @@
 
         public Cargo(int weight, string type)
         {
-            this.weight = weight;
-            this.type = type;
+            Weight = weight;
+            Type = type;
         }
 
         public string Type

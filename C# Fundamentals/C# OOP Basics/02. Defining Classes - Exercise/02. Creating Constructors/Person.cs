@@ -1,24 +1,36 @@
-﻿namespace _02.Creating_Constructors
+﻿public class Person
 {
-    public class Person
+    private string name;
+    private int age;
+
+    public Person()
     {
-        public string name;
-        public int age;
+        Name = "No name";
+        Age = 1;
+    }
 
-        public Person()
-            : this("No name", 1)
-        {
+    public Person(int age)
+        : this()
+    {
+        Age = age;
+    }
 
-        }
-        public Person(int age)
-            : this("No name", age)
-        {
+    public Person(string name, int age)
+        : this(age)
+    {
+        Name = name;
+    }
 
-        }
-        public Person(string name, int age)
-        {
-            this.name = name;
-            this.age = age;
-        }
+    public int Age
+    {
+        get { return age; }
+        set { age = value; }
+    }
+
+    public string Name
+    {
+        get { return name; }
+        set { name = value; }
     }
 }
+

@@ -7,8 +7,8 @@
 
         public Pokemon(string name, string type)
         {
-            this.name = name;
-            this.type = type;
+            Name = name;
+            Type = type;
         }
 
         public string Type

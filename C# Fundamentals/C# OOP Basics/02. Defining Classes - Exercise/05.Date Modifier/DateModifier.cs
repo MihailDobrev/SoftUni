@@ -1,5 +1,4 @@
-﻿
-namespace _05.Date_Modifier
+﻿namespace _05.Date_Modifier
 {
     using System;
 

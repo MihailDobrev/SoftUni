@@ -6,7 +6,7 @@
         public Siamese(string type, string name, int earSize)
               : base(type, name)
         {
-            this.EarSize = earSize;
+            EarSize = earSize;
         }
 
         public int EarSize { get; set; }

@@ -1,6 +1,4 @@
-﻿
-
-namespace _08.Raw_Data
+﻿namespace _08.Raw_Data
 {
     using System.Collections.Generic;
     public class Car
@@ -15,10 +13,10 @@ namespace _08.Raw_Data
 
         public Car(string model, Engine engine, Cargo cargo, List<Tire> tires)
         {
-            this.model = model;
-            this.engine = engine;
-            this.cargo = cargo;
-            this.tires = tires;
+            Model = model;
+            Engine = engine;
+            Cargo = cargo;
+            Tires = tires;
         }
 
         public List<Tire> Tires

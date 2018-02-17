@@ -29,6 +29,7 @@
                 string model = commandArgs[1];
                 double amountOfKM = double.Parse(commandArgs[2]);
                 Car drivedCar = cars.Where(x => x.Model == model).First();
+
                 if (drivedCar.FuelAmount>=drivedCar.FuelConsumption*amountOfKM)
                 {
                     double fuelLeft = drivedCar.CalculateFuelLeft(amountOfKM);

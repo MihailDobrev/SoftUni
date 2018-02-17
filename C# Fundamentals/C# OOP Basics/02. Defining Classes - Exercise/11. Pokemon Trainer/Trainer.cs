@@ -1,25 +1,23 @@
-﻿
-
-namespace _11.Pokemon_Trainer
+﻿namespace _11.Pokemon_Trainer
 {
     using System.Collections.Generic;
     public class Trainer
     {
         private string name;
         private int numberOfBadges;
-        private List<Pokemon> list;
+        private List<Pokemon> pokemons;
 
         public Trainer(string name)
         {
-            this.name = name;
-            this.numberOfBadges = 0;
-            this.list = new List<Pokemon>();
+            Name = name;
+            NumberOfBadges = 0;
+            Pokemons = new List<Pokemon>();
         }
 
         public List<Pokemon> Pokemons
         {
-            get { return list; }
-            set { list = value; }
+            get { return pokemons; }
+            set { pokemons = value; }
         }
 
         public int NumberOfBadges

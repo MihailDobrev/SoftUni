@@ -23,7 +23,7 @@
             set { id = value; }
         }
 
-        public double Width 
+        public double Width
         {
             get { return width; }
             set { width = value; }
@@ -34,7 +34,7 @@
             get { return height; }
             set { height = value; }
         }
-        
+
 
         public double TopLeftCornerHorizontal
         {
@@ -50,21 +50,21 @@
 
         public double BottomRightCornerHorizontal
         {
-            get { return this.topLeftCornerHorizontal+this.width; }          
+            get { return this.topLeftCornerHorizontal + this.width; }
         }
 
         public double BottomRightCornerVertical
         {
-            get { return this.topLeftCornerVertical-this.height; }
+            get { return this.topLeftCornerVertical - this.height; }
         }
 
         public bool DoesIntersect(Rectangle rectangle)
         {
-           
-            if ((this.TopLeftCornerHorizontal>rectangle.BottomRightCornerHorizontal) ||
-                (this.BottomRightCornerHorizontal<rectangle.TopLeftCornerHorizontal) ||
-                (this.TopLeftCornerVertical<rectangle.BottomRightCornerVertical) ||
-                (this.BottomRightCornerVertical>rectangle.TopLeftCornerVertical))
+
+            if ((TopLeftCornerHorizontal > rectangle.BottomRightCornerHorizontal) ||
+                (BottomRightCornerHorizontal < rectangle.TopLeftCornerHorizontal) ||
+                (TopLeftCornerVertical < rectangle.BottomRightCornerVertical) ||
+                (BottomRightCornerVertical > rectangle.TopLeftCornerVertical))
             {
                 return false;
             }
@@ -73,6 +73,6 @@
                 return true;
             }
         }
-           
+
     }
 }

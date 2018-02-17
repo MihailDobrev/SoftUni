@@ -14,11 +14,11 @@
 
         public Person()
         {
-            this.company = new Company();
-            this.car = new Car();
-            this.parents = new List<Parent>();
-            this.children = new List<Child>();
-            this.pokemons = new List<Pokemon>();
+            Company = new Company();
+            Car = new Car();
+            Parents = new List<Parent>();
+            Children = new List<Child>();
+            Pokemons = new List<Pokemon>();
         }
 
 

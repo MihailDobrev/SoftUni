@@ -7,8 +7,8 @@
 
         public Tire(double pressure, int age)
         {
-            this.pressure = pressure;
-            this.age = age;
+            Pressure = pressure;
+            Age = age;
         }
 
         public int Age

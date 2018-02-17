@@ -7,8 +7,8 @@
 
         public Child(string name, string birthday)
         {
-            this.name = name;
-            this.birthday = birthday;
+            Name = name;
+            Birthday = birthday;
         }
 
         public string Birthday
