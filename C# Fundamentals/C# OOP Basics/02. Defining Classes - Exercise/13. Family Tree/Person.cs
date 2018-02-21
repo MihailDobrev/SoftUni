@@ -1,53 +1,42 @@
 ﻿namespace _13.Family_Tree
 {
     using System.Collections.Generic;
-    using System.Linq;
+    using System.Text;
+
     public class Person
     {
-        private List<Person> children;
-
-        public Person()
+        public Person(string fullName, string birthDate)
         {
-            this.children = new List<Person>();
+            FullName = fullName;
+            BirthDate = birthDate;
+            Parents = new Dictionary<string, string>();
+            Children = new Dictionary<string, string>();
         }
 
-        public Person(string name, string date) : this()
-        {
-            this.Name = name;
-            this.BirthDate = date;
-        }
-
-        public string Name { get; set; }
+        public string FullName { get; set; }
 
         public string BirthDate { get; set; }
 
-        public IReadOnlyList<Person> Children
-        {
-            get { return this.children.AsReadOnly(); }
-        }
+        public Dictionary<string, string> Parents { get; set; }
 
-        public void AddChild(Person child)
-        {
-            this.children.Add(child);
-        }
+        public Dictionary<string, string> Children { get; set; }
 
-        public void AddChildrenInfo(string name, string date)
+        public override string ToString()
         {
-            if (this.children.FirstOrDefault(c => c.Name == name) != null)
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"{FullName} {BirthDate}");
+            sb.AppendLine("Parents:");
+            foreach (var pair in Parents)
             {
-                this.children.FirstOrDefault(c => c.Name == name).BirthDate = date;
-                return;
+                sb.AppendLine($"{pair.Key} {pair.Value}");
             }
-
-            if (this.children.FirstOrDefault(c => c.BirthDate == date) != null)
+            sb.AppendLine("Children:");
+            foreach (var pair in Children)
             {
-                this.children.FirstOrDefault(c => c.BirthDate == date).Name = name;
+                sb.AppendLine($"{pair.Key} {pair.Value}");
             }
-        }
-
-        public Person FindChildName(string childName)
-        {
-            return this.children.FirstOrDefault(c => c.Name == childName);
+            return sb.ToString();
         }
     }
 }
