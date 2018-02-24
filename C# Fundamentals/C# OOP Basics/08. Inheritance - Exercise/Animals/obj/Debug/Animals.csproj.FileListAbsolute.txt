@@ -1,7 +1,0 @@
-E:\SoftUni\C# OOP\Inheritance - Exercise\Animals\bin\Debug\Animals.exe.config
-E:\SoftUni\C# OOP\Inheritance - Exercise\Animals\bin\Debug\Animals.exe
-E:\SoftUni\C# OOP\Inheritance - Exercise\Animals\bin\Debug\Animals.pdb
-E:\SoftUni\C# OOP\Inheritance - Exercise\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
-E:\SoftUni\C# OOP\Inheritance - Exercise\Animals\obj\Debug\Animals.exe
-E:\SoftUni\C# OOP\Inheritance - Exercise\Animals\obj\Debug\Animals.pdb
-E:\SoftUni\C# OOP\Inheritance - Exercise\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
