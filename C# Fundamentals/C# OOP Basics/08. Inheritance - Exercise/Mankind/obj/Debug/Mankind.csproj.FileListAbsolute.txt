@@ -1,0 +1,14 @@
+E:\SoftUni\Inheritance - Exercise\Mankind\bin\Debug\Mankind.exe.config
+E:\SoftUni\Inheritance - Exercise\Mankind\bin\Debug\Mankind.exe
+E:\SoftUni\Inheritance - Exercise\Mankind\bin\Debug\Mankind.pdb
+E:\SoftUni\Inheritance - Exercise\Mankind\obj\Debug\Mankind.csprojResolveAssemblyReference.cache
+E:\SoftUni\Inheritance - Exercise\Mankind\obj\Debug\Mankind.csproj.CoreCompileInputs.cache
+E:\SoftUni\Inheritance - Exercise\Mankind\obj\Debug\Mankind.exe
+E:\SoftUni\Inheritance - Exercise\Mankind\obj\Debug\Mankind.pdb
+E:\SoftUni\C# OOP\Inheritance - Exercise\Mankind\bin\Debug\Mankind.exe.config
+E:\SoftUni\C# OOP\Inheritance - Exercise\Mankind\bin\Debug\Mankind.exe
+E:\SoftUni\C# OOP\Inheritance - Exercise\Mankind\bin\Debug\Mankind.pdb
+E:\SoftUni\C# OOP\Inheritance - Exercise\Mankind\obj\Debug\Mankind.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# OOP\Inheritance - Exercise\Mankind\obj\Debug\Mankind.exe
+E:\SoftUni\C# OOP\Inheritance - Exercise\Mankind\obj\Debug\Mankind.pdb
+E:\SoftUni\C# OOP\Inheritance - Exercise\Mankind\obj\Debug\Mankind.csprojResolveAssemblyReference.cache

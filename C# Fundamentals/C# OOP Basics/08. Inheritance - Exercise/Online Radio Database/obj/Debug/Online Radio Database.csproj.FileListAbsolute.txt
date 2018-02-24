@@ -1,0 +1,14 @@
+E:\SoftUni\Inheritance - Exercise\Online Radio Database\bin\Debug\Online Radio Database.exe.config
+E:\SoftUni\Inheritance - Exercise\Online Radio Database\bin\Debug\Online Radio Database.exe
+E:\SoftUni\Inheritance - Exercise\Online Radio Database\bin\Debug\Online Radio Database.pdb
+E:\SoftUni\Inheritance - Exercise\Online Radio Database\obj\Debug\Online Radio Database.csprojResolveAssemblyReference.cache
+E:\SoftUni\Inheritance - Exercise\Online Radio Database\obj\Debug\Online Radio Database.csproj.CoreCompileInputs.cache
+E:\SoftUni\Inheritance - Exercise\Online Radio Database\obj\Debug\Online Radio Database.exe
+E:\SoftUni\Inheritance - Exercise\Online Radio Database\obj\Debug\Online Radio Database.pdb
+E:\SoftUni\C# OOP\Inheritance - Exercise\Online Radio Database\bin\Debug\Online Radio Database.exe.config
+E:\SoftUni\C# OOP\Inheritance - Exercise\Online Radio Database\bin\Debug\Online Radio Database.exe
+E:\SoftUni\C# OOP\Inheritance - Exercise\Online Radio Database\bin\Debug\Online Radio Database.pdb
+E:\SoftUni\C# OOP\Inheritance - Exercise\Online Radio Database\obj\Debug\Online Radio Database.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# OOP\Inheritance - Exercise\Online Radio Database\obj\Debug\Online Radio Database.exe
+E:\SoftUni\C# OOP\Inheritance - Exercise\Online Radio Database\obj\Debug\Online Radio Database.pdb
+E:\SoftUni\C# OOP\Inheritance - Exercise\Online Radio Database\obj\Debug\Online Radio Database.csprojResolveAssemblyReference.cache
