@@ -1,0 +1,11 @@
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.deps.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.runtimeconfig.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.runtimeconfig.dev.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.dll
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.pdb
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.AssemblyInfoInputs.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.AssemblyInfo.cs
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.dll
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.pdb
