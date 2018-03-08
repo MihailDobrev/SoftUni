@@ -1,0 +1,11 @@
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.deps.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.runtimeconfig.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.runtimeconfig.dev.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.dll
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.pdb
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.AssemblyInfoInputs.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.AssemblyInfo.cs
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.dll
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.pdb

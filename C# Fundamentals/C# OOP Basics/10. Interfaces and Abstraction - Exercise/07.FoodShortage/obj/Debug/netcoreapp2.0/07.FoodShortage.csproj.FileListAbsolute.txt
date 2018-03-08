@@ -1,0 +1,11 @@
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.deps.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.runtimeconfig.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.runtimeconfig.dev.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.dll
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.pdb
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.AssemblyInfoInputs.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.AssemblyInfo.cs
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.dll
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.pdb

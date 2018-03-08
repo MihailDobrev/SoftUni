@@ -1,0 +1,11 @@
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.deps.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.runtimeconfig.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.runtimeconfig.dev.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.dll
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.pdb
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.AssemblyInfoInputs.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.AssemblyInfo.cs
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.dll
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.pdb

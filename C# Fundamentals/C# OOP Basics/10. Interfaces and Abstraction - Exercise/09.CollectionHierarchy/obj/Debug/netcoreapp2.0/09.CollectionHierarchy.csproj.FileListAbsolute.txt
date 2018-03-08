@@ -1,0 +1,11 @@
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.deps.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.dev.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfoInputs.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfo.cs
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb

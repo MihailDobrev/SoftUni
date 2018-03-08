@@ -1,0 +1,11 @@
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.deps.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.runtimeconfig.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.runtimeconfig.dev.json
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.dll
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.pdb
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.AssemblyInfoInputs.cache
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.AssemblyInfo.cs
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.dll
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.pdb
+E:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.csprojResolveAssemblyReference.cache
