@@ -1,0 +1,11 @@
+E:\SoftUni\C# OOP\CSharpOOPBasicsExam16-July2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.deps.json
+E:\SoftUni\C# OOP\CSharpOOPBasicsExam16-July2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.json
+E:\SoftUni\C# OOP\CSharpOOPBasicsExam16-July2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.dev.json
+E:\SoftUni\C# OOP\CSharpOOPBasicsExam16-July2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.dll
+E:\SoftUni\C# OOP\CSharpOOPBasicsExam16-July2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.pdb
+E:\SoftUni\C# OOP\CSharpOOPBasicsExam16-July2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP\CSharpOOPBasicsExam16-July2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# OOP\CSharpOOPBasicsExam16-July2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfoInputs.cache
+E:\SoftUni\C# OOP\CSharpOOPBasicsExam16-July2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfo.cs
+E:\SoftUni\C# OOP\CSharpOOPBasicsExam16-July2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.dll
+E:\SoftUni\C# OOP\CSharpOOPBasicsExam16-July2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.pdb
