@@ -1,0 +1,63 @@
+﻿namespace BashSoftProgram.IO.Commands
+{
+    using BashSoftProgram.Attributes;
+    using BashSoftProgram.Contracts;
+    using BashSoftProgram.Exceptions;
+
+    [Alias("filter")]
+    public class PrintFilteredStudentsCommand : Command, IExecutable
+    {
+        [Inject]
+        private IDatabase repository;
+        public PrintFilteredStudentsCommand(string input, string[] data)
+            : base(input, data)
+        {
+        }
+
+        public override void Execute()
+        {
+            if (Data.Length == 5)
+            {
+                string courseName = Data[1];
+                string filter = Data[2].ToLower();
+                string takeCommand = Data[3].ToLower();
+                string takeQuantity = Data[4].ToLower();
+
+                TryParseParametersForFilterAndTake(takeCommand, takeQuantity, courseName, filter);
+            }
+            else
+            {
+                throw new InvalidCommandException(Input);
+            }
+        }
+
+        private void TryParseParametersForFilterAndTake(string takeCommand, string takeQuantity, string courseName, string filter)
+        {
+            if (takeCommand == "take")
+            {
+                if (takeQuantity == "all")
+                {
+                    this.repository.FilterAndTake(courseName, filter);
+                }
+                else
+                {
+                    int studentsToTake;
+                    bool hasParsed = int.TryParse(takeQuantity, out studentsToTake);
+
+                    if (hasParsed)
+                    {
+                        this.repository.FilterAndTake(courseName, filter, studentsToTake);
+                    }
+                    else
+                    {
+                        OutputWriter.DisplayException(ExceptionMessages.InvalidTakeQuantityParameter);
+                    }
+                }
+            }
+            else
+            {
+                OutputWriter.DisplayException(ExceptionMessages.InvalidTakeQuantityParameter);
+            }
+        }
+    }
+}
