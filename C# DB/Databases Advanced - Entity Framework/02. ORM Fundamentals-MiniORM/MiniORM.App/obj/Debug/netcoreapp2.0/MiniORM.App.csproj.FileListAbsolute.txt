@@ -1,0 +1,27 @@
+E:\SoftUni\C# DB\Mini\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.deps.json
+E:\SoftUni\C# DB\Mini\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.json
+E:\SoftUni\C# DB\Mini\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.dev.json
+E:\SoftUni\C# DB\Mini\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.dll
+E:\SoftUni\C# DB\Mini\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.pdb
+E:\SoftUni\C# DB\Mini\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.dll
+E:\SoftUni\C# DB\Mini\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.pdb
+E:\SoftUni\C# DB\Mini\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# DB\Mini\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# DB\Mini\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfoInputs.cache
+E:\SoftUni\C# DB\Mini\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfo.cs
+E:\SoftUni\C# DB\Mini\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.dll
+E:\SoftUni\C# DB\Mini\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.pdb
+D:\SoftUni\C#DB\Mini\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.deps.json
+D:\SoftUni\C#DB\Mini\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.json
+D:\SoftUni\C#DB\Mini\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.dev.json
+D:\SoftUni\C#DB\Mini\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.dll
+D:\SoftUni\C#DB\Mini\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.pdb
+D:\SoftUni\C#DB\Mini\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.dll
+D:\SoftUni\C#DB\Mini\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.pdb
+D:\SoftUni\C#DB\Mini\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csprojAssemblyReference.cache
+D:\SoftUni\C#DB\Mini\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#DB\Mini\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfoInputs.cache
+D:\SoftUni\C#DB\Mini\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfo.cs
+D:\SoftUni\C#DB\Mini\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CopyComplete
+D:\SoftUni\C#DB\Mini\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.dll
+D:\SoftUni\C#DB\Mini\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.pdb
