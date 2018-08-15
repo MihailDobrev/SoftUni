@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Officers>
+	<Officer>
+	<Name>Riccardo Fockes
+	</Name>
+	<Money>3623.98</Money>
+	<Position>Overseer</Position>
+	<Weapon>Pistol</Weapon>
+	<DepartmentId>3</DepartmentId>
+	<Prisoners>
+		<Prisoner id="10" />
+		<Prisoner id="16" />
+		<Prisoner id="15" />
+	</Prisoners>
+</Officer>
+<Officer>
+	<Name>Arleen Zannolli</Name>
+	<Money>3539.40</Money>
+	<Position>Guard</Position>
+	<Weapon>FlashPulse</Weapon>
+	<DepartmentId>2</DepartmentId>
+	<Prisoners>
+		<Prisoner id="2" />
+	</Prisoners>
+</Officer>
+<Officer>
+	<Name>Hailee Kennon</Name>
+	<Money>3652.49</Money>
+	<Position>Labour</Position>
+	<Weapon>Sniper</Weapon>
+	<DepartmentId>5</DepartmentId>
+	<Prisoners>
+		<Prisoner id="3" />
+		<Prisoner id="14" />
+	</Prisoners>
+</Officer>
+<Officer>
+	<Name>Lev de Chastelain</Name>
+	<Money>2442.80</Money>
+	<Position>Guard</Position>
+	<Weapon>Sniper</Weapon>
+	<DepartmentId>2</DepartmentId>
+	<Prisoners>
+		<Prisoner id="13" />
+		<Prisoner id="12" />
+	</Prisoners>
+</Officer>undefined</Officers>
