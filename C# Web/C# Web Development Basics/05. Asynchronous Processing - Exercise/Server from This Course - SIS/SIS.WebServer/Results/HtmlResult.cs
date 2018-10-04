@@ -8,10 +8,12 @@
 
     public class HtmlResult : HttpResponse
     {
+        private const string TextHtml = "text/html";
+
         public HtmlResult(string content, HttpResponseStatusCode responseStatusCode)
             : base(responseStatusCode)
         {
-            this.Headers.Add(new HttpHeader(GlobalConstants.ContentType, GlobalConstants.TextHtml));
+            this.Headers.Add(new HttpHeader(GlobalConstants.ContentType, TextHtml));
             this.Content = Encoding.UTF8.GetBytes(content);
         }
     }

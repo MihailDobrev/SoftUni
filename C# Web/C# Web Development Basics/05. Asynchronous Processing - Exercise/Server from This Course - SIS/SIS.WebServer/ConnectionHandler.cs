@@ -30,7 +30,6 @@
             if (httpRequest != null)
             {
                 IHttpResponse httpResponse = this.HandleRequest(httpRequest);
-                Console.WriteLine(httpResponse);
                 await this.PrepareResponse(httpResponse);
             }
 
@@ -40,10 +39,12 @@
         private async Task PrepareResponse(IHttpResponse httpResponse)
         {
             byte[] byteSegments = httpResponse.GetBytes();
-            Console.WriteLine("===RESPONSE===");
-            Console.WriteLine(Encoding.UTF8.GetString(byteSegments, 0, byteSegments.Length));
+
+            WriteResponseToConsole(byteSegments);
+
             await this.client.SendAsync(byteSegments, SocketFlags.None);
         }
+
 
         private IHttpResponse HandleRequest(IHttpRequest httpRequest)
         {
@@ -87,6 +88,12 @@
             }
 
             return new HttpRequest(result.ToString());
+        }
+
+        private void WriteResponseToConsole(byte[] byteSegments)
+        {
+            Console.WriteLine("===RESPONSE===");
+            Console.WriteLine(Encoding.UTF8.GetString(byteSegments, 0, byteSegments.Length));
         }
     }
 }
