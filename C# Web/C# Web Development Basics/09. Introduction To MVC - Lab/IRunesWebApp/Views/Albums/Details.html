@@ -1,0 +1,23 @@
+﻿<div class="row">
+    <div class="col col-sm-5" style="text-align:center">
+        <img src="{{{imgUrl}}}" class="img-fluid" />
+        <h3>Album Name: {{{albumName}}}</h3>
+        <h3>Album Price: ${{{price}}}</h3>
+        <div class="row">
+            <div class="col col-sm-6" style="text-align:left">
+                <a href="/Tracks/Create/?albumId={{{albumId}}}" class="btn btn-success" role="button">Create Track</a>
+            </div>
+            <div class="col col-sm-6" style="text-align:right">
+                <a href="/Albums/All" class="btn btn-success" role="button">Back To All</a>
+            </div>
+        </div>
+    </div>
+    <div class="col col-sm-1">
+    </div>
+    <div class="col col-sm-6">
+        <h3>Tracks</h3>
+        <ol>
+            {{{tracksList}}}
+        </ol>
+    </div>
+</div>
