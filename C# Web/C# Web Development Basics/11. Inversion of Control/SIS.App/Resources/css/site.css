@@ -1,0 +1,106 @@
+﻿nav{
+    background-color: green;
+}
+
+footer{
+    text-align: center;
+}
+
+.top-border-line{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border-top: solid;
+    border-color: green;
+}
+
+.bottom-border-line {
+    margin-bottom: 10px;
+    border-bottom: solid;
+    border-color: green;
+}
+
+.center-border-line {
+    margin-bottom: 15px;
+    border: solid;
+    border-color: white;
+}
+
+.login-form-center-line{
+    margin-left: 25%;
+    width: 50%;
+    border: solid;
+    border-color: green;
+    margin-bottom: 15px;
+}
+
+.register-form-center-line {
+    margin-left: 25%;
+    width: 50%;
+    border: solid;
+    border-color: green;
+    margin-bottom: 15px;
+}
+
+.loggedin-center-line {
+    margin-bottom: 15px;
+    border: solid;
+    border-color: white;
+}
+
+.jumbotron {
+    background-color: green;
+}
+
+.jumbotron h1, h2{
+    color: white;
+}
+
+.jumbotron a{
+    color: orange;
+}
+
+.jumbotron span{
+    color: orange;
+}
+
+.login-form h1{
+    text-align: center;
+    color: green;
+}
+
+.login-form button{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    background-color: green;
+    color: white;
+}
+
+.login-form label{
+    margin-top: 10px;
+    margin-left: 25%;
+}
+
+.login-form-center{
+    text-align: center;
+}
+
+.register-form h1{
+    text-align: center;
+    color: green;
+}
+
+.register-form button {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    background-color: green;
+    color: white;
+}
+
+.register-form-center{
+    text-align: center;
+}
+
+.register-form label {
+    margin-top: 10px;
+    margin-left: 25%;
+}
