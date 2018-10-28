@@ -1,0 +1,48 @@
+﻿<h1 style="text-align:center; color:#28a745">Create Track</h1>
+
+<form method="post">
+    <div class="container">
+        <div class="row justify-content-sm-center">
+            <div class="col col-sm-6">
+                <hr style="background-color:#28a745; border-width:3px;" />
+                <div class="form-group">
+                    <label for="trackName">Name</label>
+                    <input type="text" class="form-control" id="trackName" placeholder="Name..." name="name">
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-sm-center">
+            <div class="col col-sm-3">
+                <div class="form-group">
+                    <label for="link">Link</label>
+                    <input type="text" class="form-control" id="link" placeholder="Link..." name="link">
+                </div>
+            </div>
+            <div class="col col-sm-3">
+                <div class="form-group">
+                    <label for="price">Price</label>
+                    <input type="text" class="form-control" id="price" placeholder="Price..." name="price">
+                </div>
+            </div>
+
+
+        </div>
+        <div class="row justify-content-sm-center">
+            <div class="col col-sm-6">
+                <hr style="background-color:#28a745; border-width:3px;" />
+            </div>
+        </div>
+
+    </div>
+
+
+    <div class="row justify-content-sm-center" style="text-align:center;">
+        <div class="col col-sm-3">
+            <button type="submit" class="btn btn-success">Create</button>
+        </div>
+        <div class="col col-sm-3">
+            <a href="/Albums/Details/?id={{{id}}}" class="btn btn-success" role="button">Back To Album</a>
+        </div>
+    </div>
+</form>
+
