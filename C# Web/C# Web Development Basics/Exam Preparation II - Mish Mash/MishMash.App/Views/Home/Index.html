@@ -1,0 +1,50 @@
+﻿<div class="jumbotron mt-3 bg-mishmash" style="display:@Model.NotLoggedIn">
+    <h1 class="text-white">Welcome to Mish-Mash Media Channels</h1>
+    <hr class="bg-white hr-2" />
+    <h3 class="text-white"><a href="/users/login">Login</a> if you have an account.</h3>
+    <h3 class="text-white"><a href="/users/register">Register</a> if you don't.</h3>
+</div>
+<div style="display:@Model.LoggedIn">
+    <h4 class="text-center text-mishmash">Welcome, @Model.Username!</h4>
+    <h4 class="text-mishmash">Your channels</h4>
+    <hr class="bg-mishmash hr-2">
+    <div class="tasks-holder">
+        <div class="tasks-row row">
+            @Model.Collection.UserChannelsViewModels(@Item)
+        </div>
+        <br />
+        <h4 class="text-mishmash">Suggested</h4>
+        <hr class="bg-mishmash hr-2">
+        <div class="tasks-row row">
+            @Model.Collection.SuggestedUserChannelsViewModels(@Item)
+        </div>
+        <br />
+        <h4 class="text-mishmash">See Other</h4>
+        <hr class="bg-mishmash hr-2">
+        <div class="tasks-row row">
+            @Model.Collection.OtherUserChannelsViewModels(@Item)
+        </div>
+    </div>
+</div>
+<div style="display:@Model.IsAdmin">
+    <h4 class="text-center text-mishmash">Welcome, Admin - @Model.Username!</h4>
+    <h4 class="text-mishmash">Your channels</h4>
+    <hr class="bg-mishmash hr-2">
+    <div class="container-fluid">
+        <div class="row align-items-start">
+            @Model.Collection.UserChannelsViewModels(@Item)
+        </div>
+        <br />
+        <h4 class="text-mishmash">Suggested</h4>
+        <hr class="bg-mishmash hr-2">
+        <div class="row align-items-start">
+            @Model.Collection.SuggestedUserChannelsViewModels(@Item)
+        </div>
+        <br />
+        <h4 class="text-mishmash">See Other</h4>
+        <hr class="bg-mishmash hr-2">
+        <div class="row align-items-start">
+            @Model.Collection.OtherUserChannelsViewModels(@Item)
+        </div>
+    </div>
+</div>

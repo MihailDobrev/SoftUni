@@ -1,0 +1,17 @@
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\bin\Debug\netcoreapp2.1\TORSHIA.Common.deps.json
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\bin\Debug\netcoreapp2.1\TORSHIA.Common.dll
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\bin\Debug\netcoreapp2.1\TORSHIA.Common.pdb
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\obj\Debug\netcoreapp2.1\TORSHIA.Common.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\obj\Debug\netcoreapp2.1\TORSHIA.Common.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\obj\Debug\netcoreapp2.1\TORSHIA.Common.AssemblyInfo.cs
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\obj\Debug\netcoreapp2.1\TORSHIA.Common.dll
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\obj\Debug\netcoreapp2.1\TORSHIA.Common.pdb
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\bin\Debug\netcoreapp2.1\TORSHIA.Common.deps.json
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\bin\Debug\netcoreapp2.1\TORSHIA.Common.dll
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\bin\Debug\netcoreapp2.1\TORSHIA.Common.pdb
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\obj\Debug\netcoreapp2.1\TORSHIA.Common.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\obj\Debug\netcoreapp2.1\TORSHIA.Common.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\obj\Debug\netcoreapp2.1\TORSHIA.Common.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\obj\Debug\netcoreapp2.1\TORSHIA.Common.AssemblyInfo.cs
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\obj\Debug\netcoreapp2.1\TORSHIA.Common.dll
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Common\obj\Debug\netcoreapp2.1\TORSHIA.Common.pdb

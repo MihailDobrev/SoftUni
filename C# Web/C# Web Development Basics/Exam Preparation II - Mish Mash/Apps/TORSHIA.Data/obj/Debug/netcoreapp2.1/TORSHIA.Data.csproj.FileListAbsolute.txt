@@ -1,0 +1,40 @@
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\TORSHIA.Data.deps.json
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\TORSHIA.Data.runtimeconfig.json
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\TORSHIA.Data.runtimeconfig.dev.json
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\TORSHIA.Data.dll
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\TORSHIA.Data.pdb
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\SIS.Framework.dll
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\TORSHIA.Domain.dll
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\TORSHIA.Domain.pdb
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\SIS.Framework.pdb
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\obj\Debug\netcoreapp2.1\TORSHIA.Data.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\obj\Debug\netcoreapp2.1\TORSHIA.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\obj\Debug\netcoreapp2.1\TORSHIA.Data.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\obj\Debug\netcoreapp2.1\TORSHIA.Data.AssemblyInfo.cs
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\obj\Debug\netcoreapp2.1\TORSHIA.Data.csproj.CopyComplete
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\obj\Debug\netcoreapp2.1\TORSHIA.Data.dll
+D:\SoftUni\C# Web\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\obj\Debug\netcoreapp2.1\TORSHIA.Data.pdb
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\TORSHIA.Data.deps.json
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\TORSHIA.Data.runtimeconfig.json
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\TORSHIA.Data.runtimeconfig.dev.json
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\TORSHIA.Data.dll
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\TORSHIA.Data.pdb
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\SIS.Framework.dll
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\TORSHIA.Domain.dll
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\TORSHIA.Domain.pdb
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\SIS.Framework.pdb
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\obj\Debug\netcoreapp2.1\TORSHIA.Data.csprojAssemblyReference.cache
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\obj\Debug\netcoreapp2.1\TORSHIA.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\obj\Debug\netcoreapp2.1\TORSHIA.Data.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\obj\Debug\netcoreapp2.1\TORSHIA.Data.AssemblyInfo.cs
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\obj\Debug\netcoreapp2.1\TORSHIA.Data.csproj.CopyComplete
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\obj\Debug\netcoreapp2.1\TORSHIA.Data.dll
+D:\SoftUni\C# Web\New folder (2)\ExamSIS\SIS-master\src\Apps\TORSHIA.Data\obj\Debug\netcoreapp2.1\TORSHIA.Data.pdb

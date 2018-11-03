@@ -1,0 +1,12 @@
+﻿<tr class="row">
+    <th class="col-md-1">@Model.Number</th>
+    <td class="col-md-5">@Model.Name</td>
+    <td class="col-md-1">@Model.Type</td>
+    <td class="col-md-2">@Model.Followers</td>
+    <td class="col-md-2">
+        <div class="button-holder d-flex justify-content-between">
+            <a href="/channels/unfollow/?id=@Model.ChannelId" class="btn bg-mishmash text-white" role="button">Unfollow</a>
+            <a href="/channels/details/?id=@Model.ChannelId" class="btn bg-mishmash text-white" role="button">Details</a>
+        </div>
+    </td>
+</tr>

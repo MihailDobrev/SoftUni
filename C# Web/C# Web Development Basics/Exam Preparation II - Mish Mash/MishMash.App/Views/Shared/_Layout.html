@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title>Mish Mash</title>
+    <link rel="stylesheet" type="text/css" href="reset-css.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="container-fluid">
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-dark bg-mishmash">
+                <a class="navbar-brand nav-link-white" href="/">Mish Mash</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div style="display:@Model.NotLoggedIn">
+                    <div class="collapse navbar-collapse d-flex justify-content-between" id="navbarNav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/users/login">Login</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/users/register">Register</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div style="display:@Model.LoggedIn">
+                    <div class="collapse navbar-collapse d-flex justify-content-between" id="navbarNav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/channels/followed">My Channels</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/users/logout">Logout</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div style="display:@Model.IsAdmin">
+                    <div class="collapse navbar-collapse d-flex justify-content-between" id="navbarNav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/channels/followed">My Channels</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/channels/create">Create Channel</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/users/logout">Logout</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <main>
+            @RenderBody()
+        </main>
+        <footer>
+            <div class="container-fluid bg-mishmash fixed-bottom">
+                <div class="text-white p-2 text-center">
+                    &copy; CopyRight Sanity Web Design Studios 2018. All rights reserved.
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
