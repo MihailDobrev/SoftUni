@@ -1,0 +1,11 @@
+﻿<div class="task bg-torshia rounded col-md-2 mx-3" style="margin-bottom:25px">
+    <h6 class="task-title text-white text-center my-3">@Model.Title</h6>
+    <hr class="bg-white hr-2 w-75">
+    <h6 class="task-title text-white text-center my-4">Level: @Model.Level</h6>
+    <hr class="bg-white hr-2 w-75">
+    <div class="follow-button-holder d-flex justify-content-between mx-auto mt-4">
+        <a href="/tasks/report/?id=@Model.Id"><h6 class="text-center text-white">Report</h6></a>
+        <a href="/tasks/details/?id=@Model.Id"><h6 class="text-center text-white">Details</h6></a>
+    </div>
+</div>
+

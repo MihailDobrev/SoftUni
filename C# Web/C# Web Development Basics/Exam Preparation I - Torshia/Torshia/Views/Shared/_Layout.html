@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title>TORSHIA</title>
+    <link rel="stylesheet" type="text/css" href="reset-css.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="container-fluid">
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-dark bg-torshia">
+                <a class="navbar-brand nav-link-white" href="/">TORSHIA</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse d-flex justify-content-between" id="navbarNav">
+                    <div style="display:@Model.LoggedIn">
+                        <ul class="navbar-nav right-side">
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/users/logout">Logout</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div style="display:@Model.NotLoggedIn">
+                        <ul class="navbar-nav right-side">
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/users/login">Login</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/users/register">Register</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div style="display:@Model.IsAdmin">
+                        <ul class="navbar-nav right-side">
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/tasks/create">Create Task</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/reports/all">Reports</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-link-white active" href="/users/logout">Logout</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <main>
+            @RenderBody()
+        </main>
+    </div>
+    <footer>
+        <div class="container-fluid  bg-torshia fixed-bottom">
+            <div class="text-white p-2 text-center">
+                &copy; CopyRight Sanity Web Design Studios 2018. All rights reserved.
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

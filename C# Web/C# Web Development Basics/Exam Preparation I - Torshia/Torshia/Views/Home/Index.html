@@ -1,0 +1,26 @@
+﻿<div style="display:@Model.NotLoggedIn">
+    <div class="jumbotron mt-3 bg-torshia">
+        <h1 class="text-white">Welcome to TORSHIA Task Management.</h1>
+        <hr class="bg-white hr-2" />
+        <h3 class="text-white"><a href="/users/login">Login</a> if you have an account.</h3>
+        <h3 class="text-white"><a href="/users/register">Register</a> if you don't.</h3>
+    </div>
+</div>
+<div style="display:@Model.LoggedIn">
+    <h4 class="text-torshia text-center">Welcome, @Model.Username!</h4>
+    <h4 class="text-torshia text-center">Have a nice tasking experience!</h4>
+    <hr class="hr-2 bg-torshia">
+    <div class="<row">
+        @Model.Collection.TaskViewModels(@Item)
+    </div>
+</div>
+<div style="display:@Model.IsAdmin">
+    <h4 class="text-torshia text-center">Welcome, Admin- @Model.Username!</h4>
+    <h4 class="text-torshia text-center">Enjoy your work!</h4>
+    <hr class="hr-2 bg-torshia">
+    <div class="row">
+        @Model.Collection.TaskViewModels(@Item)
+    </div>
+</div>
+
+

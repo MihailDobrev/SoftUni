@@ -1,0 +1,11 @@
+﻿<tr class="row">
+    <th class="col-md-1">@Model.Number</th>
+    <td class="col-md-5">@Model.Task</td>
+    <td class="col-md-1">@Model.Level</td>
+    <td class="col-md-2">@Model.Status</td>
+    <td class="col-md-2">
+        <div class="button-holder d-flex justify-content-between">
+            <a href="/reports/details/?taskId=@Model.ReportId" class="btn bg-torshia text-white" role="button">Details</a>
+        </div>
+    </td>
+</tr>
