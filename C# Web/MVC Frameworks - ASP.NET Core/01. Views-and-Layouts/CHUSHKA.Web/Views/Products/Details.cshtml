@@ -1,0 +1,35 @@
+﻿@model CHUSHKA.Web.ViewModels.ProductDetailsViewModel
+@using Microsoft.AspNetCore.Identity
+@{
+    ViewData["Title"] = "Details";
+}
+<h1 class="text-center">@Model.Name</h1>
+<hr class="hr-2 bg-dark" />
+<div class="product-type-holder half-width mx-auto d-flex justify-content-between">
+    <h3 class="text-center">Type: @Model.Type</h3>
+    <h3 class="text-center">Price: $@Model.Price</h3>
+</div>
+<hr class="hr-2 bg-dark" />
+<h3 class="text-center">Description</h3>
+<div class="product-description-holder">
+    <p class="text-center mt-4">
+        @Model.Description
+    </p>
+</div>
+<hr class="hr-2 bg-dark" />
+<h3 class="text-center">Actions</h3>
+@if (this.User.IsInRole("Admin"))
+{
+<div class="product-action-holder mt-4 half-width mx-auto d-flex justify-content-around">
+    <a class="btn chushka-bg-color" asp-controller="Products" asp-action="Order" asp-route-productId="@Model.Id">Order</a>
+    <a class="btn chushka-bg-color" asp-controller="Products" asp-action="Edit" asp-route-productId="@Model.Id">Edit</a>
+    <a class="btn chushka-bg-color" asp-controller="Products" asp-action="Delete" asp-route-productId="@Model.Id">Delete</a>
+</div>
+}
+else
+{
+<div class="product-action-holder mt-4 d-flex justify-content-around">
+    <a class="btn chushka-bg-color" asp-controller="Products" asp-action="Order" asp-route-productId="@Model.Id">Order</a>
+</div>
+}
+

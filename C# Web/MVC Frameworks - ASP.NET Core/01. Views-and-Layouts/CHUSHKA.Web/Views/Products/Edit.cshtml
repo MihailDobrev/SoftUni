@@ -1,0 +1,47 @@
+﻿@model CHUSHKA.Web.ViewModels.ProductUpdateDeleteViewModel
+@using CHUSHKA.Models.Enums
+@{
+    ViewData["Title"] = "Edit";
+}
+<h1 class="text-center">Edit Product</h1>
+<hr class="hr-2 bg-dark" />
+<form class="mx-auto half-width" method="post" asp-controller="Products" asp-action="Edit">
+    <input type="hidden" asp-for="Id" value="@Model.Id" />
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" type="text" class="form-control" value="@Model.Name">
+    </div>
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" type="number" class="form-control" value="@Model.Price">
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control" rows="4">@Model.Description</textarea>
+    </div>
+    <h4 class="text-center">Product Type</h4>
+    <hr class="hr-2 bg-dark half-width mt-4" />
+    <div class="product-type-holder mt-4 d-flex justify-content-around">
+        @{
+            foreach (ProductType type in (ProductType[])Enum.GetValues(typeof(ProductType)))
+            {
+                <div class="form-check form-check-inline">
+                    @if (Model.Type == type.ToString())
+                    {
+                        <input class="form-check-input" type="radio" asp-for="Type" value="@type" checked="checked">
+                    }
+                    else
+                    {
+                        <input class="form-check-input" type="radio" asp-for="Type" value="@type">
+                    }
+                    <label class="form-check-label" for="inlineRadio1">@type</label>
+                </div>
+            }
+        }
+    </div>
+    <hr class="hr-2 bg-dark half-width mt-4" />
+    <div class="button-holder mt-2 d-flex w-25 mx-auto justify-content-between">
+        <button type="submit" class="btn chushka-bg-color">Edit</button>
+        <a class="btn chushka-bg-color" asp-controller="Products" asp-action="Details" asp-route-id="@Model.Id">Cancel</a>
+    </div>
+</form>

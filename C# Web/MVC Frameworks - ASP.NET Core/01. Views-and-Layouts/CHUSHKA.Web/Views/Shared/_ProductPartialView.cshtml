@@ -1,0 +1,10 @@
+﻿@model CHUSHKA.Web.ViewModels.ProductPartialViewModel
+<a class="col-md-2 chushka-bg-color rounded-top rounded-bottom" asp-controller="Products" asp-action="Details" asp-route-id="@Model.Id">
+    <div class="product chushka-bg-color rounded-top rounded-bottom">
+        <h5 class="text-center mt-3">@Model.Name</h5>
+        <hr class="hr-1 bg-white">
+        <p class="text-white text-center">@Model.Description</p>
+        <hr class="hr-1 bg-white">
+        <h6 class="text-center text-white mb-3">$@Model.Price</h6>
+    </div>
+</a>

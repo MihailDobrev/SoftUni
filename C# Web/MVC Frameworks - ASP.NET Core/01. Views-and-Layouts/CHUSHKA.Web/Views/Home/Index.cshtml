@@ -1,0 +1,55 @@
+﻿@model List<CHUSHKA.Web.ViewModels.ProductPartialViewModel>
+
+@using Microsoft.AspNetCore.Identity
+@using CHUSHKA.Models
+
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <div class="container-fluid text-center">
+        @if (this.User.IsInRole("Admin"))
+        {
+            <h2>Greetings, admin @this.User.Identity.Name!</h2>
+            <h4>Enjoy your work today!</h4>
+        }
+        else
+        {
+            <h2>Greetings, @this.User.Identity.Name!</h2>
+            <h4>Feel free to view and order any of our products.</h4>
+        }
+    </div>
+    <hr class="hr-2 bg-dark" />
+
+    <div class="container-fluid product-holder">
+        @{
+            double rows = Math.Ceiling((double)Model.Count / 5);
+            int item = 0;
+        }
+        @for (int r = 0; r < rows; r++)
+        {
+            <div class="row d-flex justify-content-around mb-3">
+                @for (int c = 0; c < 5; c++)
+                {
+                    if (item == Model.Count)
+                    {
+                        break;
+                    }
+                    @await Html.PartialAsync("_ProductPartialView", Model[item]);
+                    item++;
+                }
+            </div>
+        }
+    </div>
+
+}
+else
+{
+    <div class="jumbotron mt-3 chushka-bg-color">
+        <h1>Welcome to Chushka Universal Web Shop</h1>
+        <hr class="bg-white" />
+        <h3><a class="nav-link-dark" asp-controller="Account" asp-action="Login">Login</a> if you have an account.</h3>
+        <h3><a class="nav-link-dark" asp-controller="Account" asp-action="Register">Register</a> if you don't.</h3>
+    </div>
+}
