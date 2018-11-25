@@ -1,0 +1,68 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@using Eventures.Models
+
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <div class="collapse navbar-collapse d-flex justify-content-between" id="navbarNav">
+        <ul class="navbar-nav right-side">
+            <li class="nav-item">
+                <a class="navbar-brand text-dark font-weight-bold" asp-controller="Home" asp-action="Index">Home</a>
+            </li>
+        </ul>
+        <div class="collapse navbar-collapse d-flex justify-content-between dropdown font-weight-bold">
+            <a class="navbar-brand dropdown-toggle nav-link bg-info" data-toggle="dropdown">
+                Events
+            </a>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <a class="dropdown-item" asp-controller="Events" asp-action="All">All Events</a>
+                @if (User.IsInRole("Admin"))
+                {
+                    <a class="dropdown-item" asp-controller="Events" asp-action="Create">Create Event</a>
+
+                }
+            </div>
+        </div>
+
+        <ul class="navbar-nav left-side">
+            @if (User.IsInRole("Admin"))
+            {
+                <li class="nav-item">
+                    <span class="navbar-brand text-dark font-weight-bold">Hello Admin!</span>
+                </li>
+            }
+            else
+            {
+                <li class="nav-item">
+                    <span class="navbar-brand text-dark font-weight-bold">Hello @User.Identity.Name!</span>
+                </li>
+            }
+            <li class="nav-item">
+                <a class="navbar-brand text-dark font-weight-bold" asp-controller="Account" asp-action="Logout">Logout</a>
+            </li>
+        </ul>
+    </div>
+}
+else
+{
+    <div class="collapse navbar-collapse d-flex justify-content-between" id="navbarNav">
+        <ul class="navbar-nav right-side">
+            <li class="nav-item">
+                <a class="navbar-brand text-dark font-weight-bold" asp-controller="Home" asp-action="Index">Home</a>
+            </li>
+            <li class="nav-item">
+
+            </li>
+        </ul>
+        <ul class="navbar-nav left-side">
+            <li class="nav-item">
+                <a class="navbar-brand text-dark font-weight-bold" asp-controller="Account" asp-action="Register">Register</a>
+            </li>
+            <li class="nav-item">
+                <a class="navbar-brand text-dark font-weight-bold" asp-controller="Account" asp-action="Login">Login</a>
+            </li>
+        </ul>
+    </div>
+}
